@@ -1,0 +1,250 @@
+Client_ID,Service_Date,Service_Type,Duration_Minutes,Staff_ID,Client_Age,Client_Gender,Referral_Source,Session_Location,Outcome_Score,Notes
+C001,03/01/2024,Counseling,60,S01,34,Female,Self,Office,8,Client engaged well
+C002,04/01/2024,Group Therapy,90,S02,45,Male,Hospital,Community Center,7,Active participation
+C003,05/01/2024,Crisis Intervention,45,S03,28,Non-Binary,Community,Online,6,Requires follow-up
+C004,06/01/2024,Counseling,60,S01,52,Female,Other NGO,Office,9,Positive feedback
+C005,07/01/2024,Follow-up,30,S04,19,Male,Self,Online,7,Stable progress
+C006,08/01/2024,Counseling,75,S02,41,Female,Hospital,Office,8,Discussed coping strategies
+C007,09/01/2024,Group Therapy,90,S03,63,Male,Community,Community Center,6,Low engagement
+C008,10/01/2024,Crisis Intervention,50,S01,27,Female,Self,Online,5,Urgent follow-up needed
+C009,11/01/2024,Counseling,60,S04,36,Non-Binary,Other NGO,Office,8,Good progress
+C010,12/01/2024,Follow-up,45,S02,29,Male,Hospital,Online,7,Maintaining stability
+C011,13/01/2024,Counseling,60,S01,48,Female,Self,Office,9,Highly motivated
+C012,14/01/2024,Group Therapy,90,S03,55,Male,Community,Community Center,6,Needs encouragement
+C013,15/01/2024,Crisis Intervention,40,S04,23,Female,Hospital,Online,5,Crisis resolved
+C014,16/01/2024,Counseling,75,S02,37,Non-Binary,Self,Office,8,Exploring goals
+C015,17/01/2024,Follow-up,30,S01,42,Male,Other NGO,Online,7,Steady improvement
+C016,18/01/2024,Counseling,60,S03,31,Female,Community,Office,8,Positive session
+C017,19/01/2024,Group Therapy,90,S04,50,Male,Hospital,Community Center,6,Moderate engagement
+C018,20/01/2024,Crisis Intervention,45,S02,26,Female,Self,Online,5,Stabilizing
+C019,21/01/2024,Counseling,60,S01,39,Non-Binary,Other NGO,Office,9,Strong progress
+C020,22/01/2024,Follow-up,30,S03,33,Male,Hospital,Online,7,Follow-up scheduled
+C021,23/01/2024,Counseling,75,S04,46,Female,Self,Office,8,Good rapport
+C022,24/01/2024,Group Therapy,90,S02,58,Male,Community,Community Center,6,Needs support
+C023,25/01/2024,Crisis Intervention,50,S01,24,Female,Hospital,Online,5,Immediate support provided
+C024,26/01/2024,Counseling,60,S03,35,Non-Binary,Self,Office,8,Client engaged
+C025,27/01/2024,Follow-up,45,S04,40,Male,Other NGO,Online,7,Progress noted
+C026,28/01/2024,Counseling,60,S02,47,Female,Community,Office,9,Highly positive
+C027,29/01/2024,Group Therapy,90,S01,53,Male,Hospital,Community Center,6,Low participation
+C028,30/01/2024,Crisis Intervention,40,S03,29,Female,Self,Online,5,Follow-up needed
+C029,31/01/2024,Counseling,75,S04,38,Non-Binary,Other NGO,Office,8,Good session
+C030,01/02/2024,Follow-up,30,S02,32,Male,Hospital,Online,7,Stable condition
+C031,02/02/2024,Counseling,60,S01,44,Female,Self,Office,9,Client motivated
+C032,03/02/2024,Group Therapy,90,S03,56,Male,Community,Community Center,6,Needs engagement
+C033,04/02/2024,Crisis Intervention,45,S04,25,Female,Hospital,Online,5,Crisis managed
+C034,05/02/2024,Counseling,60,S02,36,Non-Binary,Self,Office,8,Positive outcome
+C035,06/02/2024,Follow-up,30,S01,43,Male,Other NGO,Online,7,Progressing well
+C036,07/02/2024,Counseling,75,S03,30,Female,Community,Office,8,Good discussion
+C037,08/02/2024,Group Therapy,90,S04,51,Male,Hospital,Community Center,6,Moderate progress
+C038,09/02/2024,Crisis Intervention,50,S02,27,Female,Self,Online,5,Support provided
+C039,10/02/2024,Counseling,60,S01,40,Non-Binary,Other NGO,Office,9,Strong engagement
+C040,11/02/2024,Follow-up,45,S03,34,Male,Hospital,Online,7,Stable progress
+C041,12/02/2024,Counseling,60,S04,49,Female,Self,Office,8,Client focused
+C042,13/02/2024,Group Therapy,90,S02,57,Male,Community,Community Center,6,Needs follow-up
+C043,14/02/2024,Crisis Intervention,40,S01,26,Female,Hospital,Online,5,Crisis resolved
+C044,15/02/2024,Counseling,75,S03,38,Non-Binary,Self,Office,8,Good rapport
+C045,16/02/2024,Follow-up,30,S04,41,Male,Other NGO,Online,7,Progress noted
+C046,17/02/2024,Counseling,60,S02,45,Female,Community,Office,9,Highly engaged
+C047,18/02/2024,Group Therapy,90,S01,54,Male,Hospital,Community Center,6,Low engagement
+C048,19/02/2024,Crisis Intervention,45,S03,28,Female,Self,Online,5,Follow-up needed
+C049,20/02/2024,Counseling,60,S04,37,Non-Binary,Other NGO,Office,8,Positive session
+C050,21/02/2024,Follow-up,30,S02,33,Male,Hospital,Online,7,Stable condition
+C051,22/02/2024,Counseling,75,S01,46,Female,Self,Office,9,Client motivated
+C052,23/02/2024,Group Therapy,90,S03,59,Male,Community,Community Center,6,Needs support
+C053,24/02/2024,Crisis Intervention,50,S04,24,Female,Hospital,Online,5,Crisis managed
+C054,25/02/2024,Counseling,60,S02,35,Non-Binary,Self,Office,8,Good progress
+C055,26/02/2024,Follow-up,45,S01,42,Male,Other NGO,Online,7,Steady improvement
+C056,27/02/2024,Counseling,60,S03,31,Female,Community,Office,8,Positive feedback
+C057,28/02/2024,Group Therapy,90,S04,50,Male,Hospital,Community Center,6,Moderate engagement
+C058,01/03/2024,Crisis Intervention,40,S02,27,Female,Self,Online,5,Stabilizing
+C059,02/03/2024,Counseling,75,S01,39,Non-Binary,Other NGO,Office,9,Strong progress
+C060,03/03/2024,Follow-up,30,S03,34,Male,Hospital,Online,7,Follow-up scheduled
+C061,04/03/2024,Counseling,60,S04,48,Female,Self,Office,8,Good rapport
+C062,05/03/2024,Group Therapy,90,S02,56,Male,Community,Community Center,6,Needs encouragement
+C063,06/03/2024,Crisis Intervention,45,S01,25,Female,Hospital,Online,5,Crisis resolved
+C064,07/03/2024,Counseling,60,S02,37,Non-Binary,Self,Office,8,Exploring goals
+C065,08/03/2024,Follow-up,30,S03,43,Male,Other NGO,Online,7,Progressing well
+C066,09/03/2024,Counseling,75,S04,30,Female,Community,Office,8,Good discussion
+C067,10/03/2024,Group Therapy,90,S05,52,Male,Hospital,Community Center,6,Moderate progress
+C068,11/03/2024,Crisis Intervention,50,S06,28,Female,Self,Online,5,Support provided
+C069,12/03/2024,Counseling,60,S07,40,Non-Binary,Other NGO,Office,9,Strong engagement
+C070,13/03/2024,Follow-up,45,S08,35,Male,Hospital,Online,7,Stable progress
+C071,14/03/2024,Counseling,60,S09,47,Female,Self,Office,8,Client focused
+C072,15/03/2024,Counseling,75,S01,34,Male,Hospital,Community Center,6,Moderate engagement
+C073,16/03/2024,Counseling,30,S03,45,Female,Self,Online,5,Stabilizing
+C074,17/03/2024,Counseling,60,S04,28,Non-Binary,Other NGO,Office,9,Strong progress
+C075,18/03/2024,Counseling,90,S02,52,Male,Hospital,Online,7,Follow-up scheduled
+C076,19/03/2024,Counseling,45,S01,19,Female,Self,Office,8,Good rapport
+C077,20/03/2024,Counseling,60,S02,41,Male,Community,Community Center,6,Needs encouragement
+C078,21/03/2024,Counseling,30,S03,63,Female,Hospital,Online,5,Crisis resolved
+C079,22/03/2024,Counseling,75,S04,27,Non-Binary,Self,Office,8,Exploring goals
+C080,23/03/2024,Follow-up,90,S05,36,Male,Other NGO,Online,7,Progressing well
+C081,24/03/2024,Follow-up,50,S06,29,Female,Community,Office,8,Good discussion
+C082,25/03/2024,Follow-up,60,S07,48,Male,Hospital,Community Center,6,Moderate progress
+C083,26/03/2024,Follow-up,45,S08,55,Female,Self,Online,5,Support provided
+C084,27/03/2024,Follow-up,60,S09,23,Non-Binary,Other NGO,Office,9,Strong engagement
+C085,28/03/2024,Follow-up,75,S01,37,Male,Hospital,Online,7,Stable progress
+C086,29/03/2024,Follow-up,30,S03,42,Female,Self,Office,8,Client focused
+C087,30/03/2024,Follow-up,60,S04,31,Female,Self,Office,8,Client engaged well
+C088,31/03/2024,Follow-up,90,S02,50,Male,Hospital,Community Center,7,Active participation
+C089,01/04/2024,Crisis Intervention,45,S01,26,Non-Binary,Community,Online,6,Requires follow-up
+C090,02/04/2024,Counseling,60,S02,39,Female,Other NGO,Office,9,Positive feedback
+C091,03/04/2024,Follow-up,30,S03,33,Male,Self,Online,7,Stable progress
+C092,04/04/2024,Counseling,75,S04,46,Female,Hospital,Office,8,Discussed coping strategies
+C093,05/04/2024,Group Therapy,90,S05,58,Male,Community,Community Center,6,Low engagement
+C094,06/04/2024,Crisis Intervention,50,S06,24,Female,Self,Online,5,Urgent follow-up needed
+C095,07/04/2024,Follow-up,60,S07,35,Non-Binary,Other NGO,Office,8,Good progress
+C096,08/04/2024,Counseling,45,S08,40,Male,Hospital,Online,7,Maintaining stability
+C097,09/04/2024,Group Therapy,60,S09,47,Female,Self,Office,9,Highly motivated
+C098,10/04/2024,Crisis Intervention,75,S01,53,Male,Community,Community Center,6,Needs encouragement
+C099,11/04/2024,Counseling,30,S03,29,Female,Hospital,Online,5,Crisis resolved
+C100,12/04/2024,Group Therapy,60,S04,38,Non-Binary,Self,Office,8,Exploring goals
+C101,13/04/2024,Crisis Intervention,90,S02,32,Male,Other NGO,Online,7,Steady improvement
+C102,14/04/2024,Follow-up,45,S01,44,Female,Community,Office,8,Positive session
+C103,15/04/2024,Counseling,60,S02,56,Male,Hospital,Community Center,6,Moderate engagement
+C104,16/04/2024,Group Therapy,30,S03,25,Female,Self,Online,5,Stabilizing
+C105,17/04/2024,Crisis Intervention,75,S04,36,Non-Binary,Other NGO,Office,9,Strong progress
+C106,18/04/2024,Follow-up,90,S05,43,Male,Hospital,Online,7,Follow-up scheduled
+C107,19/04/2024,Follow-up,50,S06,30,Female,Self,Office,8,Good rapport
+C108,20/04/2024,Crisis Intervention,60,S07,51,Male,Community,Community Center,6,Needs support
+C109,21/04/2024,Counseling,45,S08,27,Female,Hospital,Online,5,Immediate support provided
+C110,22/04/2024,Follow-up,60,S09,40,Non-Binary,Self,Office,8,Client engaged
+C111,23/04/2024,Counseling,75,S01,34,Male,Other NGO,Online,7,Progress noted
+C112,24/04/2024,Group Therapy,30,S03,49,Female,Community,Office,9,Highly positive
+C113,25/04/2024,Crisis Intervention,60,S04,57,Male,Hospital,Community Center,6,Low participation
+C114,26/04/2024,Follow-up,90,S02,26,Female,Self,Online,5,Follow-up needed
+C115,27/04/2024,Counseling,45,S01,38,Non-Binary,Other NGO,Office,8,Good session
+C116,28/04/2024,Group Therapy,60,S02,41,Male,Hospital,Online,7,Stable condition
+C117,29/04/2024,Crisis Intervention,30,S03,45,Female,Self,Office,9,Client motivated
+C118,30/04/2024,Counseling,75,S04,54,Male,Community,Community Center,6,Needs engagement
+C119,01/05/2024,Group Therapy,90,S05,28,Female,Hospital,Online,5,Crisis managed
+C120,02/05/2024,Crisis Intervention,50,S06,37,Non-Binary,Self,Office,8,Positive outcome
+C121,03/05/2024,Follow-up,60,S07,33,Male,Other NGO,Online,7,Progressing well
+C122,04/05/2024,Counseling,45,S08,46,Female,Community,Office,8,Good discussion
+C123,05/05/2024,Group Therapy,60,S09,59,Male,Hospital,Community Center,6,Moderate progress
+C124,06/05/2024,Crisis Intervention,75,S01,24,Female,Self,Online,5,Support provided
+C125,07/05/2024,Follow-up,30,S03,35,Non-Binary,Other NGO,Office,9,Strong engagement
+C126,08/05/2024,Follow-up,60,S04,42,Male,Hospital,Online,7,Stable progress
+C127,09/05/2024,Follow-up,90,S02,31,Female,Self,Office,8,Client focused
+C128,10/05/2024,Follow-up,45,S01,50,Male,Community,Community Center,6,Needs follow-up
+C129,11/05/2024,Follow-up,60,S02,27,Female,Hospital,Online,5,Crisis resolved
+C130,12/05/2024,Follow-up,30,S03,39,Non-Binary,Self,Office,8,Good rapport
+C131,13/05/2024,Crisis Intervention,75,S04,34,Male,Other NGO,Online,7,Progress noted
+C132,14/05/2024,Counseling,90,S05,48,Female,Community,Office,9,Highly engaged
+C133,15/05/2024,Follow-up,50,S06,51,Male,Hospital,Community Center,6,Low engagement
+C134,16/05/2024,Counseling,60,S07,51,Female,Self,Online,5,Follow-up needed
+C135,17/05/2024,Group Therapy,45,S08,51,Non-Binary,Other NGO,Office,8,Positive session
+C136,18/05/2024,Crisis Intervention,60,S09,51,Male,Hospital,Online,7,Stable condition
+C137,19/05/2024,Follow-up,75,S01,51,Female,Self,Office,9,Client motivated
+C138,20/05/2024,Counseling,30,S03,51,Male,Community,Community Center,6,Needs support
+C139,21/05/2024,Group Therapy,60,S04,51,Female,Hospital,Online,5,Crisis managed
+C140,22/05/2024,Crisis Intervention,90,S02,51,Non-Binary,Self,Office,8,Good progress
+C141,23/05/2024,Counseling,45,S01,51,Male,Other NGO,Online,7,Steady improvement
+C142,24/05/2024,Group Therapy,60,S02,51,Female,Community,Office,8,Positive feedback
+C143,25/05/2024,Crisis Intervention,30,S03,51,Male,Hospital,Community Center,6,Moderate engagement
+C144,26/05/2024,Follow-up,75,S04,51,Female,Self,Online,5,Stabilizing
+C145,27/05/2024,Counseling,90,S05,51,Non-Binary,Other NGO,Office,9,Strong progress
+C146,28/05/2024,Group Therapy,50,S06,51,Male,Hospital,Online,7,Follow-up scheduled
+C147,29/05/2024,Crisis Intervention,60,S07,51,Female,Self,Office,8,Good rapport
+C148,30/05/2024,Follow-up,45,S08,51,Male,Community,Community Center,6,Needs encouragement
+C149,31/05/2024,Follow-up,60,S09,56,Female,Hospital,Online,5,Crisis resolved
+C150,01/06/2024,Crisis Intervention,75,S01,56,Non-Binary,Self,Office,8,Exploring goals
+C151,02/06/2024,Counseling,30,S03,56,Male,Other NGO,Online,7,Progressing well
+C152,03/06/2024,Follow-up,60,S04,56,Female,Community,Office,8,Good discussion
+C153,04/06/2024,Counseling,90,S02,56,Male,Hospital,Community Center,6,Moderate progress
+C154,05/06/2024,Group Therapy,45,S01,56,Female,Self,Online,5,Support provided
+C155,06/06/2024,Crisis Intervention,60,S02,56,Non-Binary,Other NGO,Office,9,Strong engagement
+C156,07/06/2024,Follow-up,30,S03,56,Male,Hospital,Online,7,Stable progress
+C157,08/06/2024,Follow-up,75,S04,56,Female,Self,Office,8,Client focused
+C158,09/06/2024,Follow-up,90,S05,56,Male,Hospital,Community Center,6,Moderate engagement
+C159,10/06/2024,Follow-up,50,S06,56,Female,Self,Online,5,Stabilizing
+C160,11/06/2024,Follow-up,60,S07,56,Non-Binary,Other NGO,Office,9,Strong progress
+C161,12/06/2024,Follow-up,45,S08,56,Male,Hospital,Online,7,Follow-up scheduled
+C162,13/06/2024,Crisis Intervention,60,S09,56,Female,Self,Office,8,Good rapport
+C163,14/06/2024,Counseling,30,S03,56,Male,Community,Community Center,6,Needs encouragement
+C164,15/06/2024,Follow-up,60,S04,56,Female,Hospital,Online,5,Crisis resolved
+C165,16/06/2024,Counseling,90,S02,56,Non-Binary,Self,Office,8,Exploring goals
+C166,17/06/2024,Group Therapy,45,S01,56,Male,Other NGO,Online,7,Progressing well
+C167,18/06/2024,Crisis Intervention,60,S02,56,Female,Community,Office,8,Good discussion
+C168,19/06/2024,Follow-up,30,S03,56,Male,Hospital,Community Center,6,Moderate progress
+C169,20/06/2024,Counseling,75,S04,56,Female,Self,Online,5,Support provided
+C170,21/06/2024,Group Therapy,90,S05,56,Non-Binary,Other NGO,Office,9,Strong engagement
+C171,22/06/2024,Crisis Intervention,50,S06,42,Male,Hospital,Online,7,Stable progress
+C172,23/06/2024,Counseling,60,S07,42,Female,Self,Office,8,Client focused
+C173,24/06/2024,Group Therapy,45,S08,42,Female,Self,Office,8,Client engaged well
+C174,25/06/2024,Crisis Intervention,60,S09,42,Male,Hospital,Community Center,7,Active participation
+C175,26/06/2024,Follow-up,75,S01,42,Non-Binary,Community,Online,6,Requires follow-up
+C176,27/06/2024,Counseling,30,S03,42,Female,Other NGO,Office,9,Positive feedback
+C177,28/06/2024,Group Therapy,60,S04,42,Male,Self,Online,7,Stable progress
+C178,29/06/2024,Crisis Intervention,90,S02,42,Female,Hospital,Office,8,Discussed coping strategies
+C179,30/06/2024,Follow-up,45,S01,42,Male,Community,Community Center,6,Low engagement
+C180,01/07/2024,Follow-up,60,S02,42,Female,Self,Online,5,Urgent follow-up needed
+C181,02/07/2024,Crisis Intervention,30,S03,42,Non-Binary,Other NGO,Office,8,Good progress
+C182,03/07/2024,Counseling,75,S04,42,Male,Hospital,Online,7,Maintaining stability
+C183,04/07/2024,Follow-up,90,S05,42,Female,Self,Office,9,Highly motivated
+C184,05/07/2024,Counseling,50,S06,42,Male,Community,Community Center,6,Needs encouragement
+C185,06/07/2024,Group Therapy,60,S07,42,Female,Hospital,Online,5,Crisis resolved
+C186,07/07/2024,Crisis Intervention,45,S08,42,Non-Binary,Self,Office,8,Exploring goals
+C187,08/07/2024,Follow-up,60,S09,42,Male,Other NGO,Online,7,Steady improvement
+C188,09/07/2024,Follow-up,75,S01,42,Female,Community,Office,8,Positive session
+C189,10/07/2024,Follow-up,30,S03,42,Male,Hospital,Community Center,6,Moderate engagement
+C190,11/07/2024,Follow-up,60,S04,42,Female,Self,Online,5,Stabilizing
+C191,12/07/2024,Follow-up,90,S02,42,Non-Binary,Other NGO,Office,9,Strong progress
+C192,13/07/2024,Follow-up,45,S01,42,Male,Hospital,Online,7,Follow-up scheduled
+C193,14/07/2024,Crisis Intervention,60,S02,42,Female,Self,Office,8,Good rapport
+C194,15/07/2024,Counseling,30,S03,42,Male,Community,Community Center,6,Needs support
+C195,16/07/2024,Follow-up,75,S04,42,Female,Hospital,Online,5,Immediate support provided
+C196,17/07/2024,Counseling,90,S05,42,Non-Binary,Self,Office,8,Client engaged
+C197,18/07/2024,Group Therapy,50,S06,42,Male,Other NGO,Online,7,Progress noted
+C198,19/07/2024,Crisis Intervention,60,S07,42,Female,Community,Office,9,Highly positive
+C199,20/07/2024,Follow-up,45,S08,42,Male,Hospital,Community Center,6,Low participation
+C200,21/07/2024,Counseling,60,S09,42,Female,Self,Online,5,Follow-up needed
+C201,22/07/2024,Group Therapy,30,S03,42,Non-Binary,Other NGO,Office,8,Good session
+C202,23/07/2024,Crisis Intervention,60,S04,42,Male,Hospital,Online,7,Stable condition
+C203,24/07/2024,Counseling,90,S02,42,Female,Self,Office,9,Client motivated
+C204,25/07/2024,Group Therapy,45,S01,42,Male,Community,Community Center,6,Needs engagement
+C205,26/07/2024,Crisis Intervention,60,S02,42,Female,Hospital,Online,5,Crisis managed
+C206,27/07/2024,Follow-up,30,S03,42,Non-Binary,Self,Office,8,Positive outcome
+C207,28/07/2024,Counseling,75,S04,42,Male,Other NGO,Online,7,Progressing well
+C208,29/07/2024,Group Therapy,90,S05,42,Female,Community,Office,8,Good discussion
+C209,30/07/2024,Crisis Intervention,50,S06,42,Male,Hospital,Community Center,6,Moderate progress
+C210,31/07/2024,Follow-up,60,S07,42,Female,Self,Online,5,Support provided
+C211,01/08/2024,Follow-up,45,S08,42,Non-Binary,Other NGO,Office,9,Strong engagement
+C212,02/08/2024,Crisis Intervention,60,S09,42,Male,Hospital,Online,7,Stable progress
+C213,03/08/2024,Counseling,75,S01,42,Female,Self,Office,8,Client focused
+C214,04/08/2024,Follow-up,30,S03,42,Male,Community,Community Center,6,Needs follow-up
+C215,05/08/2024,Counseling,60,S04,42,Female,Hospital,Online,5,Crisis resolved
+C216,06/08/2024,Group Therapy,90,S02,42,Non-Binary,Self,Office,8,Good rapport
+C217,07/08/2024,Crisis Intervention,45,S01,42,Male,Other NGO,Online,7,Progress noted
+C218,08/08/2024,Follow-up,60,S02,42,Female,Community,Office,9,Highly engaged
+C219,09/08/2024,Follow-up,30,S03,42,Male,Hospital,Community Center,6,Low engagement
+C220,10/08/2024,Follow-up,75,S04,42,Female,Self,Online,5,Follow-up needed
+C221,11/08/2024,Crisis Intervention,90,S05,42,Non-Binary,Other NGO,Office,8,Positive session
+C222,12/08/2024,Counseling,50,S06,42,Male,Hospital,Online,7,Stable condition
+C223,13/08/2024,Follow-up,60,S07,42,Female,Self,Office,9,Client motivated
+C224,14/08/2024,Counseling,45,S08,42,Male,Community,Community Center,6,Needs support
+C225,15/08/2024,Group Therapy,60,S09,42,Female,Hospital,Online,5,Crisis managed
+C226,16/08/2024,Crisis Intervention,75,S01,42,Non-Binary,Self,Office,8,Good progress
+C227,17/08/2024,Follow-up,30,S03,42,Male,Other NGO,Online,7,Steady improvement
+C228,18/08/2024,Counseling,60,S04,42,Female,Community,Office,8,Positive feedback
+C229,19/08/2024,Group Therapy,90,S02,42,Male,Hospital,Community Center,6,Moderate engagement
+C230,20/08/2024,Crisis Intervention,45,S01,42,Female,Self,Online,5,Stabilizing
+C231,21/08/2024,Counseling,60,S02,42,Non-Binary,Other NGO,Office,9,Strong progress
+C232,22/08/2024,Group Therapy,30,S03,42,Male,Hospital,Online,7,Follow-up scheduled
+C233,23/08/2024,Crisis Intervention,75,S04,42,Female,Self,Office,8,Good rapport
+C234,24/08/2024,Follow-up,90,S05,42,Male,Community,Community Center,6,Needs encouragement
+C235,25/08/2024,Counseling,50,S06,42,Female,Hospital,Online,5,Crisis resolved
+C236,26/08/2024,Group Therapy,60,S07,42,Non-Binary,Self,Office,8,Exploring goals
+C237,27/08/2024,Crisis Intervention,45,S08,42,Male,Other NGO,Online,7,Progressing well
+C238,28/08/2024,Follow-up,60,S09,42,Female,Community,Office,8,Good discussion
+C239,29/08/2024,Follow-up,30,S03,42,Male,Hospital,Community Center,6,Moderate progress
+C240,30/08/2024,Crisis Intervention,60,S04,42,Female,Self,Online,5,Support provided
+C241,31/08/2024,Counseling,90,S02,71,Non-Binary,Other NGO,Office,9,Strong engagement
+C242,01/09/2024,Follow-up,45,S01,71,Male,Hospital,Online,7,Stable progress
+C243,02/09/2024,Counseling,60,S02,71,Female,Self,Office,8,Client focused
+C244,03/09/2024,Group Therapy,30,S03,71,Male,Hospital,Community Center,6,Moderate engagement
+C245,04/09/2024,Crisis Intervention,75,S04,82,Female,Self,Online,5,Stabilizing
+C246,05/09/2024,Follow-up,90,S05,82,Non-Binary,Other NGO,Office,9,Strong progress
+C247,06/09/2024,Crisis Intervention,50,S06,82,Male,Hospital,Online,7,Follow-up scheduled
+C248,07/09/2024,Counseling,60,S07,79,Female,Self,Office,8,Good rapport
+C249,08/09/2024,Follow-up,45,S08,79,Male,Community,Community Center,6,Needs encouragement
