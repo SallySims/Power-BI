@@ -1,0 +1,345 @@
+Program ID,Program Name,Sex,Borough of London,Year,Program Reach (Beneficiaries),Funding Efficiency (%),Health Outcome Improvement (%),Volunteer Engagement,Grant Success Rate (%),Cost per Beneficiary ($),Community Satisfaction (%),Program Completion Rate (%)
+PRG001,Malaria Prevention,Female,Barking and Dagenham,2020,25000,85,25,200,70,15,90,95
+PRG002,Maternal Health,Male,Barnet,2018,15000,78,20,150,65,20,85,90
+PRG003,Vaccination Drive,Female,Bexley,2021,30000,90,30,250,75,12,92,98
+PRG004,HIV/AIDS Awareness,Male,Brent,2019,10000,72,15,100,60,25,80,85
+PRG005,Nutrition Program,Female,Bromley,2022,20000,88,22,180,68,18,88,93
+PRG006,TB Screening,Female,Camden,2017,12000,75,18,120,62,22,82,87
+PRG007,Child Health,Female,Croydon,2023,35000,92,35,300,78,10,94,97
+PRG008,Water Sanitation,Female,Ealing,2016,8000,70,12,80,55,30,78,80
+PRG009,Cancer Awareness,Female,Enfield,2020,18000,82,20,160,67,17,87,92
+PRG010,Diabetes Education,Female,Greenwich,2021,22000,86,24,190,72,14,89,94
+PRG011,Hygiene Campaign,Female,Hackney,2019,14000,77,17,130,63,21,83,88
+PRG012,Mental Health Support,Male,Hammersmith and Fulham,2022,9000,73,14,90,58,28,79,82
+PRG013,Vision Care,Female,Haringey,2023,27000,89,28,220,74,13,91,96
+PRG014,Immunization Program,Male,Harrow,2018,16000,80,19,140,66,19,86,91
+PRG015,Heart Disease Prevention,Female,Havering,2020,23000,84,23,200,70,16,88,93
+PRG016,Health Education,Female,Hillingdon,2021,11000,74,16,110,61,24,81,86
+PRG017,Malaria Treatment,Female,Hounslow,2017,29000,87,26,210,73,15,90,95
+PRG018,Maternal Care,Female,Islington,2022,13000,76,18,120,64,22,84,89
+PRG019,Vaccination Outreach,Female,Kensington and Chelsea,2019,31000,91,32,260,76,11,93,98
+PRG020,HIV Testing,Female,Kingston upon Thames,2020,9500,71,13,95,57,29,77,81
+PRG021,Nutrition Support,Female,Lambeth,2023,24000,88,24,190,71,14,89,94
+PRG022,TB Prevention,Male,Lewisham,2018,17000,79,20,150,65,20,85,90
+PRG023,Child Immunization,Female,Merton,2021,32000,90,30,270,77,12,92,97
+PRG024,Water Purification,Male,Newham,2016,7000,69,11,70,54,32,76,79
+PRG025,Cancer Screening,Female,Redbridge,2020,19000,83,21,170,68,16,88,92
+PRG026,Diabetes Awareness,Male,Richmond upon Thames,2022,21000,85,23,180,70,15,89,94
+PRG027,Hygiene Education,Female,Southwark,2019,12000,75,15,110,62,23,82,87
+PRG028,Mental Health Program,Male,Sutton,2023,10000,72,14,100,59,27,80,83
+PRG029,Vision Screening,Male,Tower Hamlets,2021,28000,89,27,230,75,13,91,96
+PRG030,Immunization Drive,Male,Waltham Forest,2018,15000,78,19,140,66,20,85,90
+PRG031,Heart Health,Male,Wandsworth,2020,22000,84,22,190,71,16,88,93
+PRG032,Health Workshops,Male,Westminster,2022,9000,73,13,90,58,28,79,82
+PRG033,Malaria Control,Male,City of London,2017,30000,88,25,210,73,14,90,95
+PRG034,Maternal Health,Male,Barking and Dagenham,2021,14000,77,18,130,64,21,84,89
+PRG035,Vaccination Program,Male,Barnet,2019,33000,91,33,280,78,11,93,98
+PRG036,HIV Prevention,Male,Bexley,2020,9500,70,12,95,56,30,76,80
+PRG037,Nutrition Campaign,Male,Brent,2023,25000,89,24,200,72,14,89,94
+PRG038,TB Awareness,Male,Bromley,2018,16000,78,19,140,65,20,85,90
+PRG039,Child Health,Female,Camden,2021,34000,92,34,290,79,10,94,97
+PRG040,Water Sanitation,Male,Croydon,2016,8000,68,11,80,53,33,75,78
+PRG041,Cancer Education,Female,Ealing,2020,20000,84,22,180,69,16,88,93
+PRG042,Diabetes Program,Female,Enfield,2022,23000,86,24,190,71,15,89,94
+PRG043,Hygiene Promotion,Female,Greenwich,2019,13000,76,16,120,63,22,83,88
+PRG044,Mental Health Support,Female,Hackney,2023,11000,73,14,100,59,27,80,83
+PRG045,Vision Care,Female,Hammersmith and Fulham,2021,29000,90,28,240,76,12,92,96
+PRG046,Immunization Outreach,Female,Haringey,2018,17000,79,20,150,66,19,86,91
+PRG047,Heart Disease Awareness,Female,Harrow,2020,24000,85,23,200,72,15,89,94
+PRG048,Health Education,Female,Havering,2022,10000,74,14,90,58,28,79,82
+PRG049,Malaria Prevention,Female,Hillingdon,2017,31000,88,26,220,74,14,90,95
+PRG050,Maternal Care,Male,Hounslow,2021,15000,77,18,130,64,21,84,89
+PRG051,Vaccination Drive,Female,Islington,2019,35000,92,35,300,80,10,94,98
+PRG052,HIV Awareness,Male,Kensington and Chelsea,2020,9000,70,12,90,55,30,76,80
+PRG053,Nutrition Program,Female,Kingston upon Thames,2023,26000,89,25,210,73,14,90,95
+PRG054,TB Screening,Male,Lambeth,2018,18000,80,20,160,67,19,86,91
+PRG055,Child Health,Male,Lewisham,2021,36000,93,36,310,81,10,95,98
+PRG056,Water Purification,Male,Merton,2016,7000,68,10,70,52,34,74,77
+PRG057,Cancer Screening,Male,Newham,2020,21000,85,23,190,70,15,89,94
+PRG058,Diabetes Education,Male,Redbridge,2022,24000,87,25,200,72,14,90,95
+PRG059,Hygiene Campaign,Male,Richmond upon Thames,2019,14000,76,16,120,63,22,83,88
+PRG060,Mental Health,Male,Southwark,2023,12000,74,15,110,60,26,81,84
+PRG061,Vision Screening,Male,Sutton,2021,30000,90,29,250,77,12,92,96
+PRG062,Immunization Program,Male,Tower Hamlets,2018,16000,79,19,140,66,20,86,91
+PRG063,Heart Health,Male,Waltham Forest,2020,25000,86,24,210,73,14,90,94
+PRG064,Health Workshops,Male,Wandsworth,2022,11000,75,14,100,59,27,80,83
+PRG065,Malaria Treatment,Male,Westminster,2017,32000,89,27,230,75,13,91,96
+PRG066,Maternal Health,Male,City of London,2021,17000,78,19,150,65,20,85,90
+PRG067,Vaccination Outreach,Male,Barking and Dagenham,2019,37000,93,37,320,82,10,95,98
+PRG068,HIV Testing,Male,Barnet,2020,9500,70,12,90,55,30,76,80
+PRG069,Nutrition Support,Male,Bexley,2023,27000,90,26,220,74,13,91,96
+PRG070,TB Prevention,Male,Brent,2018,19000,80,21,170,68,18,87,92
+PRG071,Child Immunization,Male,Bromley,2021,38000,94,38,330,83,9,96,99
+PRG072,Water Sanitation,Male,Camden,2016,8000,67,10,70,51,35,73,76
+PRG073,Cancer Awareness,Female,Croydon,2020,22000,86,24,200,71,14,90,94
+PRG074,Diabetes Awareness,Female,Ealing,2022,25000,88,26,210,73,14,91,95
+PRG075,Hygiene Education,Female,Enfield,2019,15000,77,17,130,64,21,84,89
+PRG076,Mental Health Program,Female,Greenwich,2023,13000,75,15,110,60,26,81,84
+PRG077,Vision Care,Female,Hackney,2021,31000,91,30,260,78,11,93,97
+PRG078,Immunization Drive,Male,Hammersmith and Fulham,2018,18000,80,20,160,67,19,86,91
+PRG079,Heart Health,Female,Haringey,2020,26000,87,25,220,74,14,91,95
+PRG080,Health Education,Male,Harrow,2022,12000,76,15,110,60,26,81,84
+PRG081,Malaria Control,Male,Havering,2017,33000,90,28,240,76,13,92,96
+PRG082,Maternal Care,Male,Hillingdon,2021,19000,79,20,170,68,18,87,92
+PRG083,Vaccination Program,Male,Hounslow,2019,39000,94,39,340,84,9,96,99
+PRG084,HIV Prevention,Male,Islington,2020,10000,71,13,90,56,29,77,81
+PRG085,Nutrition Campaign,Male,Kensington and Chelsea,2023,28000,91,27,230,75,12,92,96
+PRG086,TB Awareness,Male,Kingston upon Thames,2018,20000,81,22,180,69,17,88,93
+PRG087,Child Health,Male,Lambeth,2021,40000,95,40,350,85,8,97,100
+PRG088,Water Purification,Male,Lewisham,2016,9000,68,11,80,52,34,74,77
+PRG089,Cancer Education,Male,Merton,2020,23000,87,25,210,73,14,91,95
+PRG090,Diabetes Program,Male,Newham,2022,26000,89,27,220,74,13,92,96
+PRG091,Hygiene Promotion,Male,Redbridge,2019,16000,78,18,140,65,20,85,90
+PRG092,Mental Health Support,Male,Richmond upon Thames,2023,14000,76,16,120,61,25,82,85
+PRG093,Vision Screening,Male,Southwark,2021,32000,92,31,270,79,11,93,97
+PRG094,Immunization Outreach,Male,Sutton,2018,19000,80,21,170,68,18,87,92
+PRG095,Heart Disease Awareness,Male,Tower Hamlets,2020,27000,88,26,230,75,13,92,96
+PRG096,Health Education,Male,Waltham Forest,2022,13000,77,16,110,60,26,81,84
+PRG097,Malaria Prevention,Female,Wandsworth,2017,34000,91,29,250,77,12,93,97
+PRG098,Maternal Health,Female,Westminster,2021,20000,80,21,180,69,17,88,93
+PRG099,Vaccination Drive,Female,City of London,2019,41000,95,41,360,86,8,97,100
+PRG100,HIV Awareness,Female,Barking and Dagenham,2020,11000,72,14,100,57,28,78,82
+PRG101,Nutrition Program,Female,Barnet,2023,29000,92,28,240,76,12,93,97
+PRG102,TB Screening,Female,Bexley,2018,21000,82,23,190,70,16,89,94
+PRG103,Child Health,Female,Brent,2021,42000,96,42,370,87,7,98,100
+PRG104,Water Sanitation,Female,Bromley,2016,10000,69,12,90,53,33,75,78
+PRG105,Cancer Screening,Female,Camden,2020,24000,88,26,220,74,13,92,96
+PRG106,Diabetes Education,Female,Croydon,2022,27000,90,28,230,75,12,93,97
+PRG107,Hygiene Campaign,Female,Ealing,2019,17000,79,19,150,66,19,86,91
+PRG108,Mental Health,Female,Enfield,2023,15000,77,17,130,62,24,83,86
+PRG109,Vision Care,Female,Greenwich,2021,33000,93,32,280,80,10,94,98
+PRG110,Immunization Program,Female,Hackney,2018,20000,81,22,180,69,17,88,93
+PRG111,Heart Health,Female,Hammersmith and Fulham,2020,28000,89,27,240,76,12,93,97
+PRG112,Health Workshops,Female,Haringey,2022,14000,78,17,120,61,25,82,85
+PRG113,Malaria Treatment,Female,Harrow,2017,35000,92,30,260,78,11,94,98
+PRG114,Maternal Care,Male,Havering,2021,21000,80,22,190,70,16,89,94
+PRG115,Vaccination Outreach,Male,Hillingdon,2019,43000,96,43,380,88,7,98,100
+PRG116,HIV Testing,Male,Hounslow,2020,12000,73,15,110,58,27,79,83
+PRG117,Nutrition Support,Male,Islington,2023,30000,93,29,250,77,11,94,98
+PRG118,TB Prevention,Male,Kensington and Chelsea,2018,22000,83,24,200,71,15,90,95
+PRG119,Child Immunization,Female,Kingston upon Thames,2021,44000,97,44,390,89,6,99,100
+PRG120,Water Purification,Male,Lambeth,2016,11000,70,13,100,54,32,76,79
+PRG121,Cancer Awareness,Female,Lewisham,2020,25000,89,27,230,75,12,93,97
+PRG122,Diabetes Awareness,Male,Merton,2022,28000,91,29,240,76,11,94,98
+PRG123,Hygiene Education,Female,Newham,2019,18000,80,20,160,67,18,87,92
+PRG124,Mental Health Program,Male,Redbridge,2023,16000,78,18,140,63,23,84,87
+PRG125,Vision Screening,Female,Richmond upon Thames,2021,34000,94,33,290,81,10,95,98
+PRG126,Immunization Drive,Male,Southwark,2018,21000,82,23,190,70,16,89,94
+PRG127,Heart Health,Female,Sutton,2020,29000,90,28,250,77,11,94,98
+PRG128,Health Education,Male,Tower Hamlets,2022,15000,79,18,130,62,24,83,86
+PRG129,Malaria Control,Female,Waltham Forest,2017,36000,93,31,270,79,11,95,98
+PRG130,Maternal Health,Male,Wandsworth,2021,22000,81,23,200,71,15,90,95
+PRG131,Vaccination Program,Female,Westminster,2019,45000,97,45,400,90,6,99,100
+PRG132,HIV Prevention,Male,City of London,2020,13000,74,16,120,59,26,80,84
+PRG133,Nutrition Campaign,Female,Lewisham,2023,31000,94,30,260,78,10,95,98
+PRG134,TB Awareness,Male,Merton,2018,23000,84,25,210,72,14,91,96
+PRG135,Child Health,Female,Newham,2021,46000,98,46,410,91,5,100,100
+PRG136,Water Sanitation,Male,Redbridge,2016,12000,71,14,110,55,31,77,80
+PRG137,Cancer Education,Female,Richmond upon Thames,2020,26000,90,28,240,76,11,94,98
+PRG138,Diabetes Program,Male,Southwark,2022,29000,92,30,250,77,10,95,98
+PRG139,Hygiene Promotion,Female,Sutton,2019,19000,81,21,170,68,17,88,93
+PRG140,Mental Health Support,Male,Tower Hamlets,2023,17000,79,19,150,64,22,85,88
+PRG141,Vision Care,Female,Waltham Forest,2021,35000,95,34,300,82,9,96,99
+PRG142,Immunization Outreach,Male,Wandsworth,2018,22000,83,24,200,71,15,90,95
+PRG143,Heart Disease Awareness,Female,Westminster,2020,30000,91,29,260,78,10,95,98
+PRG144,Health Education,Male,City of London,2022,16000,80,19,140,63,23,84,87
+PRG145,Malaria Prevention,Female,Lewisham,2017,37000,94,32,280,80,10,96,99
+PRG146,Maternal Care,Male,Merton,2021,23000,82,24,210,72,14,91,96
+PRG147,Vaccination Drive,Female,Newham,2019,47000,98,47,420,92,5,100,100
+PRG148,HIV Awareness,Male,Redbridge,2020,14000,75,17,130,60,25,81,85
+PRG149,Nutrition Program,Female,Richmond upon Thames,2023,32000,95,31,270,79,10,96,99
+PRG150,TB Screening,Male,Southwark,2018,24000,85,26,220,73,13,92,97
+PRG151,Child Health,Female,Sutton,2021,48000,99,48,430,93,5,100,100
+PRG152,Water Sanitation,Male,Tower Hamlets,2016,13000,72,15,120,56,30,78,81
+PRG153,Cancer Screening,Female,Waltham Forest,2020,27000,91,29,250,77,11,95,98
+PRG154,Diabetes Education,Male,Wandsworth,2022,30000,93,31,260,78,10,96,99
+PRG155,Hygiene Campaign,Female,Westminster,2019,20000,82,22,180,69,16,89,94
+PRG156,Mental Health,Male,City of London,2023,18000,80,20,160,65,21,86,89
+PRG157,Vision Screening,Female,Sutton,2021,36000,96,35,310,83,9,97,99
+PRG158,Immunization Program,Male,Tower Hamlets,2018,23000,84,25,210,72,14,91,96
+PRG159,Heart Health,Female,Waltham Forest,2020,31000,92,30,270,79,10,96,99
+PRG160,Health Workshops,Male,Wandsworth,2022,17000,81,20,150,64,22,85,88
+PRG161,Malaria Treatment,Female,Westminster,2017,38000,95,33,290,81,9,97,99
+PRG162,Maternal Health,Male,City of London,2021,24000,83,25,220,73,13,92,97
+PRG163,Vaccination Outreach,Female,City of London,2019,49000,99,49,440,94,5,100,100
+PRG164,HIV Testing,Male,City of London,2020,15000,76,18,140,61,24,82,86
+PRG165,Nutrition Support,Female,City of London,2023,33000,96,32,280,80,9,97,99
+PRG166,TB Prevention,Male,City of London,2018,25000,86,27,230,74,12,93,98
+PRG167,Child Immunization,Female,City of London,2021,50000,100,50,450,95,5,100,100
+PRG168,Water Purification,Male,City of London,2016,14000,73,16,130,57,29,79,82
+PRG169,Cancer Awareness,Female,Westminster,2020,28000,92,30,260,78,10,96,99
+PRG170,Diabetes Awareness,Male,Hackney,2022,31000,94,32,270,79,9,97,99
+PRG171,Hygiene Education,Female,Hammersmith and Fulham,2019,21000,83,23,190,70,15,90,95
+PRG172,Mental Health Program,Male,Haringey,2023,19000,81,21,170,66,20,87,90
+PRG173,Vision Care,Female,Harrow,2021,37000,97,36,320,84,8,98,100
+PRG174,Immunization Drive,Male,Havering,2018,24000,85,26,220,73,13,92,97
+PRG175,Heart Health,Female,Hillingdon,2020,32000,93,31,280,80,9,97,99
+PRG176,Health Education,Male,Hounslow,2022,18000,82,21,160,65,21,86,89
+PRG177,Malaria Control,Female,Islington,2017,39000,96,34,300,82,8,98,100
+PRG178,Maternal Care,Male,Kensington and Chelsea,2021,25000,84,26,230,74,12,93,98
+PRG179,Vaccination Program,Female,Kingston upon Thames,2019,50000,100,50,450,95,5,100,100
+PRG180,HIV Prevention,Male,City of London,2020,16000,77,19,150,62,23,83,87
+PRG181,Nutrition Campaign,Female,Hackney,2023,34000,97,33,290,81,8,98,100
+PRG182,TB Awareness,Male,Hammersmith and Fulham,2018,26000,87,28,240,75,12,94,98
+PRG183,Child Health,Female,Haringey,2021,50000,100,50,450,95,5,100,100
+PRG184,Water Sanitation,Male,Harrow,2016,15000,74,17,140,58,28,80,83
+PRG185,Cancer Education,Female,Havering,2020,29000,93,31,270,79,10,97,99
+PRG186,Diabetes Program,Male,Hillingdon,2022,32000,95,33,280,80,9,98,100
+PRG187,Hygiene Promotion,Female,Hounslow,2019,22000,84,24,200,71,14,91,96
+PRG188,Mental Health Support,Male,Islington,2023,20000,82,22,180,67,19,88,91
+PRG189,Vision Screening,Female,Kensington and Chelsea,2021,38000,98,37,330,85,8,99,100
+PRG190,Immunization Outreach,Male,Kingston upon Thames,2018,25000,86,27,230,74,12,93,98
+PRG191,Heart Disease Awareness,Female,City of London,2020,33000,94,32,290,81,9,98,100
+PRG192,Health Education,Male,Westminster,2022,19000,83,22,170,66,20,87,90
+PRG193,Malaria Prevention,Female,Hackney,2017,40000,97,35,310,83,8,99,100
+PRG194,Maternal Health,Male,Hammersmith and Fulham,2021,26000,85,27,240,75,12,94,98
+PRG195,Vaccination Drive,Female,City of London,2019,50000,100,50,450,95,5,100,100
+PRG196,HIV Awareness,Male,Westminster,2020,17000,78,20,160,63,22,84,88
+PRG197,Nutrition Program,Female,Hackney,2023,35000,98,34,300,82,8,99,100
+PRG198,TB Screening,Male,Hammersmith and Fulham,2018,27000,88,29,250,76,11,95,99
+PRG199,Child Health,Female,City of London,2021,50000,100,50,450,95,5,100,100
+PRG200,Water Sanitation,Male,City of London,2016,16000,75,18,150,59,27,81,84
+PRG201,Cancer Screening,Female,City of London,2020,30000,94,32,280,80,9,98,100
+PRG202,Diabetes Education,Male,City of London,2022,33000,96,34,290,81,8,99,100
+PRG203,Hygiene Campaign,Female,City of London,2019,23000,85,25,210,72,13,92,97
+PRG204,Mental Health,Male,City of London,2023,21000,83,23,190,68,18,89,92
+PRG205,Vision Care,Female,City of London,2021,39000,99,38,340,86,7,100,100
+PRG206,Immunization Program,Male,City of London,2018,26000,87,28,240,75,11,94,98
+PRG207,Heart Health,Female,City of London,2020,34000,95,33,300,82,8,99,100
+PRG208,Health Workshops,Male,City of London,2022,20000,84,23,180,67,19,88,91
+PRG209,Malaria Treatment,Female,Hounslow,2017,41000,98,36,320,84,7,100,100
+PRG210,Maternal Care,Male,Islington,2021,27000,86,28,250,76,11,95,99
+PRG211,Vaccination Outreach,Female,Kensington and Chelsea,2019,50000,100,50,450,95,5,100,100
+PRG212,HIV Testing,Male,Hounslow,2020,18000,79,21,170,64,21,85,89
+PRG213,Nutrition Support,Female,Islington,2023,36000,99,35,310,83,7,100,100
+PRG214,TB Prevention,Male,Kensington and Chelsea,2018,28000,89,30,260,77,10,96,99
+PRG215,Child Immunization,Female,Hounslow,2021,50000,100,50,450,95,5,100,100
+PRG216,Water Purification,Male,Islington,2016,17000,76,19,160,60,26,82,85
+PRG217,Cancer Awareness,Female,Kensington and Chelsea,2020,31000,95,33,290,81,8,99,100
+PRG218,Diabetes Awareness,Male,Hounslow,2022,34000,97,35,300,82,7,100,100
+PRG219,Hygiene Education,Female,Islington,2019,24000,86,26,220,73,12,93,98
+PRG220,Mental Health Program,Male,Kensington and Chelsea,2023,22000,84,24,200,69,17,90,93
+PRG221,Vision Screening,Female,Hounslow,2021,40000,100,39,350,87,6,100,100
+PRG222,Immunization Drive,Male,Islington,2018,27000,88,29,250,76,10,95,99
+PRG223,Heart Health,Female,Kensington and Chelsea,2020,35000,96,34,310,83,7,100,100
+PRG224,Health Education,Male,City of London,2022,21000,85,24,190,68,18,89,92
+PRG225,Malaria Control,Female,City of London,2017,42000,99,37,330,85,6,100,100
+PRG226,Maternal Health,Male,City of London,2021,28000,87,29,260,77,10,96,99
+PRG227,Vaccination Program,Female,Hounslow,2019,50000,100,50,450,95,5,100,100
+PRG228,HIV Prevention,Male,Islington,2020,19000,80,22,180,65,20,86,90
+PRG229,Nutrition Campaign,Female,Kensington and Chelsea,2023,37000,100,36,320,84,6,100,100
+PRG230,TB Awareness,Male,Hounslow,2018,29000,90,31,270,78,9,97,100
+PRG231,Child Health,Female,City of London,2021,50000,100,50,450,95,5,100,100
+PRG232,Water Sanitation,Male,City of London,2016,18000,77,20,170,61,25,83,86
+PRG233,Cancer Education,Female,Hounslow,2020,32000,96,34,300,82,7,100,100
+PRG234,Diabetes Program,Male,Westminster,2022,35000,98,36,310,83,6,100,100
+PRG235,Hygiene Promotion,Female,Westminster,2019,25000,87,27,230,74,11,94,98
+PRG236,Mental Health Support,Male,Westminster,2023,23000,85,25,210,70,16,91,94
+PRG237,Vision Care,Female,Westminster,2021,41000,100,40,360,88,6,100,100
+PRG238,Immunization Outreach,Male,Westminster,2018,28000,89,30,260,77,10,96,99
+PRG239,Heart Disease Awareness,Female,Westminster,2020,36000,97,35,320,84,6,100,100
+PRG240,Health Education,Male,Westminster,2022,22000,86,25,200,69,17,90,93
+PRG241,Malaria Prevention,Female,Harrow,2017,43000,100,38,340,86,6,100,100
+PRG242,Maternal Care,Male,Harrow,2021,29000,88,30,270,78,9,97,100
+PRG243,Vaccination Drive,Female,Harrow,2019,50000,100,50,450,95,5,100,100
+PRG244,HIV Awareness,Male,Harrow,2020,20000,81,23,190,66,19,87,91
+PRG245,Nutrition Program,Female,Harrow,2023,38000,100,37,330,85,6,100,100
+PRG246,TB Screening,Male,Harrow,2018,30000,91,32,280,79,9,98,100
+PRG247,Child Health,Female,Barnet,2021,50000,100,50,450,95,5,100,100
+PRG248,Water Sanitation,Male,Barnet,2016,19000,78,21,180,62,24,84,87
+PRG249,Cancer Screening,Female,Barnet,2020,33000,97,35,310,83,7,100,100
+PRG250,Diabetes Education,Male,Barnet,2022,36000,99,37,320,84,6,100,100
+PRG251,Hygiene Campaign,Female,Barnet,2019,26000,88,28,240,75,10,95,99
+PRG252,Mental Health,Male,Barnet,2023,24000,86,26,220,71,15,92,95
+PRG253,Vision Screening,Female,Hounslow,2021,42000,100,41,370,89,5,100,100
+PRG254,Immunization Program,Male,Islington,2018,29000,90,31,270,78,9,97,100
+PRG255,Heart Health,Female,Kensington and Chelsea,2020,37000,98,36,330,85,6,100,100
+PRG256,Health Workshops,Male,City of London,2022,23000,87,26,210,70,16,91,94
+PRG257,Malaria Treatment,Female,City of London,2017,44000,100,39,350,87,5,100,100
+PRG258,Maternal Health,Male,City of London,2021,30000,89,31,280,79,9,98,100
+PRG259,Vaccination Outreach,Female,Hounslow,2019,50000,100,50,450,95,5,100,100
+PRG260,HIV Testing,Male,Hounslow,2020,21000,82,24,200,67,18,88,92
+PRG261,Nutrition Support,Female,Islington,2023,39000,100,38,340,86,5,100,100
+PRG262,TB Prevention,Male,Kensington and Chelsea,2018,31000,92,33,290,80,8,99,100
+PRG263,Child Immunization,Female,City of London,2021,50000,100,50,450,95,5,100,100
+PRG264,Water Purification,Male,City of London,2016,20000,79,22,190,63,23,85,88
+PRG265,Cancer Awareness,Female,City of London,2020,34000,98,36,320,84,6,100,100
+PRG266,Diabetes Awareness,Male,Hounslow,2022,37000,100,38,330,85,5,100,100
+PRG267,Hygiene Education,Female,Hounslow,2019,27000,89,29,250,76,10,96,99
+PRG268,Mental Health Program,Male,Islington,2023,25000,87,27,230,72,14,93,96
+PRG269,Vision Care,Female,Kensington and Chelsea,2021,43000,100,42,380,90,5,100,100
+PRG270,Immunization Drive,Male,City of London,2018,30000,91,32,280,79,8,98,100
+PRG271,Heart Health,Female,City of London,2020,38000,99,37,340,86,5,100,100
+PRG272,Health Education,Male,City of London,2022,24000,88,27,220,71,15,92,95
+PRG273,Malaria Control,Female,Hounslow,2017,45000,100,40,360,88,5,100,100
+PRG274,Maternal Care,Male,Hounslow,2021,31000,90,32,290,80,8,99,100
+PRG275,Vaccination Program,Female,Islington,2019,50000,100,50,450,95,5,100,100
+PRG276,HIV Prevention,Male,Kensington and Chelsea,2020,22000,83,25,210,68,17,89,93
+PRG277,Nutrition Campaign,Female,City of London,2023,40000,100,39,350,87,5,100,100
+PRG278,TB Awareness,Male,City of London,2018,32000,93,34,300,81,8,99,100
+PRG279,Child Health,Female,City of London,2021,50000,100,50,450,95,5,100,100
+PRG280,Water Sanitation,Male,Hounslow,2016,21000,80,23,200,64,22,86,89
+PRG281,Cancer Education,Female,Hounslow,2020,35000,99,37,330,85,6,100,100
+PRG282,Diabetes Program,Male,Islington,2022,38000,100,39,340,86,5,100,100
+PRG283,Hygiene Promotion,Female,Kensington and Chelsea,2019,28000,90,30,260,77,9,97,100
+PRG284,Mental Health Support,Male,City of London,2023,26000,88,28,240,73,13,94,96
+PRG285,Vision Screening,Female,City of London,2021,44000,100,43,390,91,5,100,100
+PRG286,Immunization Outreach,Male,City of London,2018,31000,92,33,290,80,8,99,100
+PRG287,Heart Disease Awareness,Female,Hounslow,2020,39000,100,38,350,87,5,100,100
+PRG288,Health Education,Male,Hounslow,2022,25000,89,28,230,72,14,93,96
+PRG289,Malaria Prevention,Female,Islington,2017,46000,100,41,370,89,5,100,100
+PRG290,Maternal Health,Male,Kensington and Chelsea,2021,32000,91,33,300,81,8,99,100
+PRG291,Vaccination Drive,Female,City of London,2019,50000,100,50,450,95,5,100,100
+PRG292,HIV Awareness,Male,City of London,2020,23000,84,26,220,69,16,90,94
+PRG293,Nutrition Program,Female,City of London,2023,41000,100,40,360,88,5,100,100
+PRG294,TB Screening,Male,Hounslow,2018,33000,94,35,310,82,7,100,100
+PRG295,Child Health,Female,Hounslow,2021,50000,100,50,450,95,5,100,100
+PRG296,Water Sanitation,Male,Islington,2016,22000,81,24,210,65,21,87,90
+PRG297,Cancer Screening,Female,Kensington and Chelsea,2020,36000,100,38,340,86,5,100,100
+PRG298,Diabetes Education,Male,City of London,2022,39000,100,40,350,87,5,100,100
+PRG299,Hygiene Campaign,Female,City of London,2019,29000,91,31,270,78,9,98,100
+PRG300,Mental Health,Male,City of London,2023,27000,89,29,250,74,12,95,97
+PRG301,Vision Care,Female,Hounslow,2021,45000,100,44,400,92,5,100,100
+PRG302,Immunization Program,Male,Richmond upon Thames,2018,32000,93,34,300,81,7,99,100
+PRG303,Heart Health,Female,Southwark,2020,40000,100,39,360,88,5,100,100
+PRG304,Health Workshops,Male,Sutton,2022,26000,90,29,240,73,13,94,96
+PRG305,Malaria Treatment,Female,Tower Hamlets,2017,47000,100,42,380,90,5,100,100
+PRG306,Maternal Care,Male,Waltham Forest,2021,33000,92,34,310,82,7,100,100
+PRG307,Vaccination Outreach,Female,Wandsworth,2019,50000,100,50,450,95,5,100,100
+PRG308,HIV Testing,Male,Westminster,2020,24000,85,27,230,70,15,91,95
+PRG309,Nutrition Support,Female,City of London,2023,42000,100,41,370,89,5,100,100
+PRG310,TB Prevention,Male,Barking and Dagenham,2018,34000,95,36,320,83,7,100,100
+PRG311,Child Immunization,Female,Barnet,2021,50000,100,50,450,95,5,100,100
+PRG312,Water Purification,Male,Bexley,2016,23000,82,25,220,66,20,88,91
+PRG313,Cancer Awareness,Female,Brent,2020,37000,100,39,350,87,5,100,100
+PRG314,Diabetes Awareness,Male,Bromley,2022,40000,100,41,360,88,5,100,100
+PRG315,Hygiene Education,Female,Camden,2019,30000,92,32,280,79,8,99,100
+PRG316,Mental Health Program,Male,Croydon,2023,28000,90,30,260,75,11,96,98
+PRG317,Vision Screening,Female,Ealing,2021,46000,100,45,410,93,5,100,100
+PRG318,Immunization Drive,Male,Enfield,2018,33000,94,35,310,82,7,100,100
+PRG319,Heart Health,Female,Greenwich,2020,41000,100,40,370,89,5,100,100
+PRG320,Health Education,Male,Richmond upon Thames,2022,27000,91,30,250,74,12,95,97
+PRG321,Malaria Control,Female,Southwark,2017,48000,100,43,390,91,5,100,100
+PRG322,Maternal Health,Male,Sutton,2021,34000,93,35,320,83,7,100,100
+PRG323,Vaccination Program,Female,Tower Hamlets,2019,50000,100,50,450,95,5,100,100
+PRG324,HIV Prevention,Male,Waltham Forest,2020,25000,86,28,240,71,14,92,96
+PRG325,Nutrition Campaign,Female,Wandsworth,2023,43000,100,42,380,90,5,100,100
+PRG326,TB Awareness,Male,Westminster,2018,35000,96,37,330,84,6,100,100
+PRG327,Child Health,Female,City of London,2021,50000,100,50,450,95,5,100,100
+PRG328,Water Sanitation,Male,Barking and Dagenham,2016,24000,83,26,230,67,19,89,92
+PRG329,Cancer Education,Female,Barnet,2020,38000,100,40,360,88,5,100,100
+PRG330,Diabetes Program,Male,Bexley,2022,41000,100,42,370,89,5,100,100
+PRG331,Hygiene Promotion,Female,Brent,2019,31000,93,33,290,80,8,100,100
+PRG332,Mental Health Support,Male,Bromley,2023,29000,91,31,270,76,10,97,99
+PRG333,Vision Care,Female,Camden,2021,47000,100,46,420,94,5,100,100
+PRG334,Immunization Outreach,Male,Croydon,2018,34000,95,36,320,83,6,100,100
+PRG335,Heart Disease Awareness,Female,Ealing,2020,42000,100,41,380,90,5,100,100
+PRG336,Health Education,Male,Enfield,2022,28000,92,31,260,75,11,96,98
+PRG337,Malaria Prevention,Female,Greenwich,2017,49000,100,44,400,92,5,100,100
+PRG338,Maternal Care,Male,City of London,2021,35000,94,36,330,84,6,100,100
+PRG339,Vaccination Drive,Female,City of London,2019,50000,100,50,450,95,5,100,100
+PRG340,HIV Awareness,Male,City of London,2020,26000,87,29,250,72,13,93,97
+PRG341,Nutrition Program,Female,City of London,2023,44000,100,43,390,91,5,100,100
+PRG342,TB Screening,Male,City of London,2018,36000,97,38,340,85,6,100,100
+PRG343,Child Health,Female,City of London,2021,50000,100,50,450,95,5,100,100
+PRG344,Water Sanitation,Male,City of London,2016,25000,84,27,240,,,,
