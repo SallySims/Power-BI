@@ -1,0 +1,26 @@
+Health Programs and Beneficiaries KPIs
+Assumptions and Approach:
+Context: The NGO focuses on public health initiatives (e.g., disease prevention, health education, vaccination programs, maternal and child health).
+Business Acumen KPIs: These will include metrics that reflect strategic decision-making, resource allocation, and operational efficiency in a health NGO context. Examples include:
+Program Reach: Number of beneficiaries served (e.g., individuals receiving health services).
+Funding Efficiency: Ratio of program spending to total expenditure.
+Health Outcome Improvement: Percentage reduction in disease incidence or mortality.
+Volunteer Engagement: Number of active volunteers.
+Grant Success Rate: Percentage of grant applications approved.
+Cost per Beneficiary: Cost to serve one beneficiary.
+Community Satisfaction: Satisfaction score from community surveys (1–100).
+Program Completion Rate: Percentage of planned health programs completed on time.
+Fields:
+Program ID: Unique identifier (e.g., PRG001 to PRG345).
+Program Name: Descriptive name of the health initiative (e.g., Malaria Prevention, Maternal Health).
+NB: I split the health condition programs. E.g., malaria, prevention
+Region: Geographic area of operation (e.g., the London Boroughs).
+Year: Year of program implementation (2015–2024).
+Program Reach (Beneficiaries): Number of people served (500–50,000).
+Funding Efficiency (%): Percentage of budget spent on programs vs. overhead (60–95%).
+Health Outcome Improvement (%): Reduction in disease incidence or mortality (5–40%).
+Volunteer Engagement: Number of volunteers involved (10–500).
+Grant Success Rate (%): Percentage of successful grant applications (20–80%).
+Cost per Beneficiary ($): Cost to serve one beneficiary ($5–$100).
+Community Satisfaction: Community feedback score (50–100).
+Program Completion Rate (%): Percentage of program activities completed on schedule (70–100%).
