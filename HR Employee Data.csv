@@ -1,0 +1,359 @@
+Employee ID,Department,Job Title,Salary,Hire Date,Location,Sex,Duration with Company (Years),When Left Company,Number of Absenteeism
+EMP001,IT,Software Engineer,95000,15/06/2015,New York,Male,9.94,Still Employed,5
+EMP002,HR,HR Manager,85000,22/03/2018,Chicago,Female,7.17,Still Employed,3
+EMP003,Finance,Accountant,70000,01/11/2010,San Francisco,Male,10.23,15/02/2021,8
+EMP004,Marketing,Marketing Specialist,65000,10/09/2020,Austin,Female,4.7,Still Employed,2
+EMP005,Sales,Sales Representative,60000,05/04/2017,Seattle,Male,8.13,Still Employed,6
+EMP006,Operations,Operations Analyst,72000,19/07/2019,Miami,Female,5.85,Still Employed,4
+EMP007,IT,Network Administrator,88000,28/02/2013,New York,Male,8.91,10/01/2022,7
+EMP008,HR,Recruiter,62000,12/05/2021,Chicago,Female,4.03,Still Employed,1
+EMP009,Finance,Financial Analyst,78000,30/08/2016,San Francisco,Male,8.73,Still Employed,3
+EMP010,Marketing,Content Creator,60000,15/01/2022,Austin,Female,3.36,Still Employed,5
+EMP011,Sales,Sales Manager,90000,20/10/2014,Seattle,Male,10.59,Still Employed,2
+EMP012,Operations,Logistics Coordinator,67000,03/12/2018,Miami,Female,4.83,15/09/2023,9
+EMP013,IT,Data Scientist,110000,01/09/2015,New York,Male,9.73,Still Employed,4
+EMP014,HR,HR Assistant,55000,14/02/2020,Chicago,Female,5.27,Still Employed,6
+EMP015,Finance,Senior Accountant,85000,07/06/2012,San Francisco,Male,12.96,Still Employed,3
+EMP016,Marketing,Marketing Manager,95000,25/11/2017,Austin,Female,7.49,Still Employed,2
+EMP017,Sales,Sales Associate,58000,10/03/2019,Seattle,Male,6.21,Still Employed,8
+EMP018,Operations,Supply Chain Manager,90000,18/04/2016,Miami,Female,9.1,Still Employed,5
+EMP019,IT,Systems Analyst,82000,12/07/2014,New York,Male,7.81,20/04/2022,7
+EMP020,HR,Training Specialist,65000,05/10/2021,Chicago,Female,3.63,Still Employed,3
+EMP021,Finance,Budget Analyst,74000,30/01/2018,San Francisco,Male,7.31,Still Employed,4
+EMP022,Marketing,Social Media Coordinator,62000,22/06/2020,Austin,Female,4.92,Still Employed,6
+EMP023,Sales,Sales Representative,60000,15/09/2017,Seattle,Male,7.69,Still Employed,2
+EMP024,Operations,Operations Manager,95000,05/03/2013,Miami,Female,8.47,10/08/2021,5
+EMP025,IT,DevOps Engineer,105000,01/12/2015,New York,Male,9.48,Still Employed,3
+EMP026,HR,HR Coordinator,60000,20/08/2019,Chicago,Female,5.76,Still Employed,4
+EMP027,Finance,Accountant,70000,10/05/2016,San Francisco,Male,9.04,Still Employed,7
+EMP028,Marketing,Graphic Designer,68000,18/02/2021,Austin,Female,4.26,Still Employed,2
+EMP029,Sales,Sales Manager,92000,30/11/2014,Seattle,Male,10.48,Still Employed,3
+EMP030,Operations,Logistics Analyst,65000,01/07/2018,Miami,Female,6.9,Still Employed,5
+EMP031,IT,Software Developer,98000,22/04/2015,New York,Male,10.09,Still Employed,4
+EMP032,HR,Recruitment Manager,82000,15/10/2017,Chicago,Female,7.61,Still Employed,3
+EMP033,Finance,Financial Planner,80000,10/09/2013,San Francisco,Male,11.7,Still Employed,6
+EMP034,Marketing,Marketing Analyst,67000,05/04/2020,Austin,Female,5.13,Still Employed,2
+EMP035,Sales,Sales Associate,59000,12/06/2019,Seattle,Male,5.95,Still Employed,8
+EMP036,Operations,Operations Analyst,71000,28/02/2016,Miami,Female,9.24,Still Employed,4
+EMP037,IT,Network Engineer,87000,20/08/2014,New York,Male,8.34,05/01/2023,7
+EMP038,HR,HR Specialist,63000,10/07/2021,Chicago,Female,3.87,Still Employed,3
+EMP039,Finance,Senior Accountant,86000,15/12/2012,San Francisco,Male,12.44,Still Employed,5
+EMP040,Marketing,Content Manager,70000,25/05/2018,Austin,Female,6.99,Still Employed,2
+EMP041,Sales,Sales Representative,61000,01/12/2017,Seattle,Male,7.48,Still Employed,6
+EMP042,Operations,Supply Chain Analyst,68000,20/11/2019,Miami,Female,5.51,Still Employed,4
+EMP043,IT,Data Analyst,85000,10/10/2015,New York,Male,9.62,Still Employed,3
+EMP044,HR,HR Assistant,56000,15/08/2020,Chicago,Female,4.77,Still Employed,5
+EMP045,Finance,Accountant,72000,05/03/2016,San Francisco,Male,9.22,Still Employed,7
+EMP046,Marketing,Marketing Coordinator,64000,22/03/2021,Austin,Female,4.17,Still Employed,2
+EMP047,Sales,Sales Manager,91000,18/05/2014,Seattle,Male,11.02,Still Employed,3
+EMP048,Operations,Logistics Manager,88000,01/07/2013,Miami,Female,10.33,10/12/2023,6
+EMP049,IT,Software Engineer,96000,15/01/2015,New York,Male,10.36,Still Employed,4
+EMP050,HR,Training Coordinator,62000,30/09/2019,Chicago,Female,5.65,Still Employed,3
+EMP051,Finance,Financial Analyst,79000,10/02/2017,San Francisco,Male,8.29,Still Employed,5
+EMP052,Marketing,Social Media Manager,69000,05/10/2020,Austin,Female,4.63,Still Employed,2
+EMP053,Sales,Sales Associate,58000,15/04/2018,Seattle,Male,7.11,Still Employed,7
+EMP054,Operations,Operations Manager,94000,20/06/2016,Miami,Female,8.93,Still Employed,4
+EMP055,IT,DevOps Engineer,106000,25/09/2014,New York,Male,10.66,Still Employed,3
+EMP056,HR,HR Coordinator,61000,10/11/2021,Chicago,Female,3.54,Still Employed,5
+EMP057,Finance,Accountant,71000,12/05/2015,San Francisco,Male,10.03,Still Employed,6
+EMP058,Marketing,Graphic Designer,67000,01/12/2019,Austin,Female,5.48,Still Employed,2
+EMP059,Sales,Sales Representative,60000,20/08/2017,Seattle,Male,7.76,Still Employed,4
+EMP060,Operations,Logistics Analyst,66000,28/02/2018,Miami,Female,7.24,Still Employed,3
+EMP061,IT,Network Administrator,89000,15/04/2013,New York,Male,8.61,20/11/2021,7
+EMP062,HR,Recruiter,63000,10/03/2020,Chicago,Female,5.21,Still Employed,5
+EMP063,Finance,Senior Accountant,87000,05/10/2012,San Francisco,Male,12.63,Still Employed,4
+EMP064,Marketing,Marketing Analyst,68000,15/06/2018,Austin,Female,6.94,Still Employed,2
+EMP065,Sales,Sales Manager,93000,01/12/2014,Seattle,Male,10.48,Still Employed,3
+EMP066,Operations,Supply Chain Manager,91000,20/01/2016,Miami,Female,9.34,Still Employed,6
+EMP067,IT,Data Scientist,112000,10/11/2015,New York,Male,9.54,Still Employed,4
+EMP068,HR,HR Specialist,64000,05/04/2021,Chicago,Female,4.13,Still Employed,3
+EMP069,Finance,Financial Planner,81000,15/08/2013,San Francisco,Male,11.77,Still Employed,5
+EMP070,Marketing,Content Creator,61000,20/05/2020,Austin,Female,5.01,Still Employed,2
+EMP071,Sales,Sales Associate,59000,10/07/2019,Seattle,Male,5.87,Still Employed,7
+EMP072,Operations,Operations Analyst,72000,05/09/2016,Miami,Female,8.72,Still Employed,4
+EMP073,IT,Software Developer,99000,20/06/2014,New York,Male,10.93,Still Employed,3
+EMP074,HR,HR Assistant,57000,15/01/2020,Chicago,Female,5.36,Still Employed,6
+EMP075,Finance,Accountant,73000,01/07/2015,San Francisco,Male,9.9,Still Employed,5
+EMP076,Marketing,Marketing Coordinator,65000,10/09/2021,Austin,Female,3.7,Still Employed,2
+EMP077,Sales,Sales Representative,61000,20/10/2017,Seattle,Male,7.59,Still Employed,4
+EMP078,Operations,Logistics Manager,89000,25/05/2013,Miami,Female,8.66,15/12/2021,6
+EMP079,IT,Network Engineer,88000,10/02/2015,New York,Male,10.29,Still Employed,3
+EMP080,HR,Training Specialist,63000,05/10/2019,Chicago,Female,5.63,Still Employed,5
+EMP081,Finance,Financial Analyst,80000,15/04/2016,San Francisco,Male,9.11,Still Employed,4
+EMP082,Marketing,Social Media Coordinator,66000,20/07/2020,Austin,Female,4.84,Still Employed,2
+EMP083,Sales,Sales Manager,92000,15/11/2014,Seattle,Male,10.52,Still Employed,3
+EMP084,Operations,Supply Chain Analyst,69000,10/08/2018,Miami,Female,6.79,Still Employed,6
+EMP085,IT,DevOps Engineer,107000,25/08/2015,New York,Male,9.75,Still Employed,4
+EMP086,HR,HR Coordinator,62000,01/12/2021,Chicago,Female,3.48,Still Employed,3
+EMP087,Finance,Accountant,71000,10/02/2016,San Francisco,Male,9.29,Still Employed,5
+EMP088,Marketing,Graphic Designer,68000,15/11/2019,Austin,Female,5.52,Still Employed,2
+EMP089,Sales,Sales Representative,60000,20/06/2017,Seattle,Male,7.93,Still Employed,7
+EMP090,Operations,Operations Manager,95000,30/09/2013,Miami,Female,11.65,Still Employed,4
+EMP091,IT,Data Analyst,86000,05/03/2015,New York,Male,10.22,Still Employed,3
+EMP092,HR,HR Assistant,56000,10/04/2020,Chicago,Female,5.12,Still Employed,6
+EMP093,Finance,Senior Accountant,88000,20/11/2012,San Francisco,Male,12.51,Still Employed,5
+EMP094,Marketing,Marketing Analyst,67000,10/05/2018,Austin,Female,7.04,Still Employed,2
+EMP095,Sales,Sales Associate,59000,15/08/2019,Seattle,Male,5.77,Still Employed,4
+EMP096,Operations,Logistics Analyst,66000,01/07/2016,Miami,Female,8.9,Still Employed,3
+EMP097,IT,Software Engineer,97000,10/10/2014,New York,Male,8.29,15/03/2023,7
+EMP098,HR,Recruiter,64000,05/06/2021,Chicago,Female,3.97,Still Employed,5
+EMP099,Finance,Financial Planner,82000,15/06/2013,San Francisco,Male,11.94,Still Employed,4
+EMP100,Marketing,Content Creator,61000,20/02/2020,Austin,Female,5.26,Still Employed,2
+EMP101,Sales,Sales Manager,93000,20/08/2014,Seattle,Male,10.76,Still Employed,3
+EMP102,Operations,Supply Chain Manager,92000,25/03/2016,Miami,Female,9.17,Still Employed,6
+EMP103,IT,Network Administrator,89000,10/05/2015,New York,Male,10.04,Still Employed,4
+EMP104,HR,HR Specialist,65000,20/12/2019,Chicago,Female,5.43,Still Employed,3
+EMP105,Finance,Accountant,72000,15/01/2016,San Francisco,Male,9.36,Still Employed,5
+EMP106,Marketing,Marketing Coordinator,64000,10/08/2021,Austin,Female,3.79,Still Employed,2
+EMP107,Sales,Sales Representative,61000,05/11/2017,Seattle,Male,7.55,Still Employed,7
+EMP108,Operations,Operations Analyst,71000,15/09/2018,Miami,Female,6.69,Still Employed,4
+EMP109,IT,Data Scientist,113000,20/12/2014,New York,Male,10.43,Still Employed,3
+EMP110,HR,HR Assistant,57000,05/06/2020,Chicago,Female,4.97,Still Employed,6
+EMP111,Finance,Senior Accountant,89000,10/07/2012,San Francisco,Male,12.87,Still Employed,5
+EMP112,Marketing,Social Media Manager,69000,15/04/2019,Austin,Female,6.11,Still Employed,2
+EMP113,Sales,Sales Associate,59000,20/02/2018,Seattle,Male,7.26,Still Employed,4
+EMP114,Operations,Logistics Manager,90000,10/10/2016,Miami,Female,8.62,Still Employed,3
+EMP115,IT,DevOps Engineer,108000,15/06/2015,New York,Male,9.94,Still Employed,7
+EMP116,HR,Training Specialist,64000,10/02/2021,Chicago,Female,4.29,Still Employed,5
+EMP117,Finance,Financial Analyst,81000,20/04/2013,San Francisco,Male,12.09,Still Employed,4
+EMP118,Marketing,Graphic Designer,68000,25/08/2020,Austin,Female,4.75,Still Employed,2
+EMP119,Sales,Sales Manager,94000,05/07/2014,Seattle,Male,10.88,Still Employed,3
+EMP120,Operations,Supply Chain Analyst,70000,20/10/2018,Miami,Female,6.59,Still Employed,6
+EMP121,IT,Software Developer,98000,20/09/2015,New York,Male,9.68,Still Employed,4
+EMP122,HR,HR Coordinator,62000,15/05/2021,Chicago,Female,4.02,Still Employed,3
+EMP123,Finance,Accountant,73000,10/08/2016,San Francisco,Male,8.79,Still Employed,5
+EMP124,Marketing,Marketing Analyst,67000,20/06/2019,Austin,Female,5.93,Still Employed,2
+EMP125,Sales,Sales Representative,60000,15/12/2017,Seattle,Male,7.44,Still Employed,7
+EMP126,Operations,Operations Manager,96000,10/11/2013,Miami,Female,11.54,Still Employed,4
+EMP127,IT,Network Engineer,90000,20/02/2015,New York,Male,8.51,10/08/2023,6
+EMP128,HR,HR Assistant,56000,10/09/2020,Chicago,Female,4.7,Still Employed,3
+EMP129,Finance,Senior Accountant,88000,15/05/2012,San Francisco,Male,13.02,Still Employed,5
+EMP130,Marketing,Content Creator,61000,20/10/2021,Austin,Female,3.59,Still Employed,2
+EMP131,Sales,Sales Associate,59000,05/03/2018,Seattle,Male,7.22,Still Employed,4
+EMP132,Operations,Logistics Analyst,67000,01/12/2016,Miami,Female,8.48,Still Employed,3
+EMP133,IT,Data Analyst,87000,15/06/2014,New York,Male,10.94,Still Employed,7
+EMP134,HR,Recruiter,65000,05/11/2020,Chicago,Female,4.55,Still Employed,5
+EMP135,Finance,Financial Planner,82000,20/10/2013,San Francisco,Male,11.59,Still Employed,4
+EMP136,Marketing,Marketing Coordinator,64000,10/07/2019,Austin,Female,5.87,Still Employed,2
+EMP137,Sales,Sales Manager,95000,10/09/2014,Seattle,Male,10.7,Still Employed,3
+EMP138,Operations,Supply Chain Manager,93000,15/05/2016,Miami,Female,9.03,Still Employed,6
+EMP139,IT,Software Engineer,99000,20/11/2015,New York,Male,9.51,Still Employed,4
+EMP140,HR,HR Specialist,63000,10/03/2021,Chicago,Female,4.21,Still Employed,3
+EMP141,Finance,Accountant,72000,20/07/2016,San Francisco,Male,8.84,Still Employed,5
+EMP142,Marketing,Social Media Manager,69000,25/08/2019,Austin,Female,5.75,Still Employed,2
+EMP143,Sales,Sales Representative,61000,10/01/2018,Seattle,Male,7.37,Still Employed,7
+EMP144,Operations,Operations Analyst,71000,20/10/2016,Miami,Female,8.59,Still Employed,4
+EMP145,IT,DevOps Engineer,109000,10/04/2015,New York,Male,10.12,Still Employed,3
+EMP146,HR,Training Specialist,64000,15/12/2020,Chicago,Female,4.44,Still Employed,5
+EMP147,Finance,Financial Analyst,81000,05/12/2013,San Francisco,Male,11.47,Still Employed,4
+EMP148,Marketing,Graphic Designer,68000,20/06/2021,Austin,Female,3.93,Still Employed,2
+EMP149,Sales,Sales Associate,59000,20/04/2018,Seattle,Male,7.09,Still Employed,3
+EMP150,Operations,Logistics Manager,91000,10/02/2016,Miami,Female,9.29,Still Employed,6
+EMP151,IT,Network Administrator,90000,15/07/2015,New York,Male,9.86,Still Employed,4
+EMP152,HR,HR Coordinator,62000,25/05/2020,Chicago,Female,5,Still Employed,5
+EMP153,Finance,Senior Accountant,89000,20/08/2012,San Francisco,Male,12.76,Still Employed,3
+EMP154,Marketing,Marketing Analyst,67000,15/09/2019,Austin,Female,5.69,Still Employed,2
+EMP155,Sales,Sales Manager,94000,20/10/2014,Seattle,Male,10.59,Still Employed,7
+EMP156,Operations,Supply Chain Analyst,70000,05/11/2016,Miami,Female,8.55,Still Employed,4
+EMP157,IT,Data Scientist,114000,20/01/2015,New York,Male,10.34,Still Employed,3
+EMP158,HR,HR Assistant,57000,15/07/2021,Chicago,Female,3.86,Still Employed,6
+EMP159,Finance,Accountant,73000,10/03/2016,San Francisco,Male,9.21,Still Employed,5
+EMP160,Marketing,Content Creator,61000,10/10/2020,Austin,Female,4.62,Still Employed,2
+EMP161,Sales,Sales Representative,61000,05/06/2018,Seattle,Male,6.97,Still Employed,4
+EMP162,Operations,Operations Manager,96000,20/07/2013,Miami,Female,11.84,Still Employed,3
+EMP163,IT,Software Developer,100000,10/08/2015,New York,Male,9.79,Still Employed,7
+EMP164,HR,Recruiter,65000,15/02/2020,Chicago,Female,5.27,Still Employed,5
+EMP165,Finance,Financial Planner,82000,25/05/2013,San Francisco,Male,12,Still Employed,4
+EMP166,Marketing,Marketing Coordinator,64000,20/11/2021,Austin,Female,3.51,Still Employed,2
+EMP167,Sales,Sales Associate,59000,10/09/2018,Seattle,Male,6.7,Still Employed,3
+EMP168,Operations,Logistics Analyst,67000,15/12/2016,Miami,Female,8.44,Still Employed,6
+EMP169,IT,Network Engineer,91000,20/06/2015,New York,Male,8.29,15/09/2023,4
+EMP170,HR,HR Specialist,63000,10/04/2021,Chicago,Female,4.12,Still Employed,5
+EMP171,Finance,Senior Accountant,90000,15/09/2012,San Francisco,Male,12.69,Still Employed,3
+EMP172,Marketing,Social Media Manager,69000,20/10/2019,Austin,Female,5.59,Still Employed,2
+EMP173,Sales,Sales Manager,95000,10/11/2014,Seattle,Male,10.54,Still Employed,7
+EMP174,Operations,Supply Chain Manager,93000,20/04/2016,Miami,Female,9.09,Still Employed,4
+EMP175,IT,DevOps Engineer,110000,15/02/2015,New York,Male,10.27,Still Employed,3
+EMP176,HR,Training Specialist,64000,10/07/2020,Chicago,Female,4.87,Still Employed,6
+EMP177,Finance,Accountant,72000,20/01/2016,San Francisco,Male,9.34,Still Employed,5
+EMP178,Marketing,Graphic Designer,68000,15/08/2021,Austin,Female,3.77,Still Employed,2
+EMP179,Sales,Sales Representative,61000,15/02/2018,Seattle,Male,7.27,Still Employed,4
+EMP180,Operations,Operations Analyst,71000,05/10/2016,Miami,Female,8.63,Still Employed,3
+EMP181,IT,Data Analyst,88000,15/09/2015,New York,Male,9.69,Still Employed,7
+EMP182,HR,HR Coordinator,62000,20/12/2020,Chicago,Female,4.43,Still Employed,5
+EMP183,Finance,Financial Analyst,81000,10/06/2013,San Francisco,Male,11.95,Still Employed,4
+EMP184,Marketing,Marketing Analyst,67000,10/11/2019,Austin,Female,5.54,Still Employed,2
+EMP185,Sales,Sales Associate,59000,20/05/2018,Seattle,Male,7.01,Still Employed,3
+EMP186,Operations,Logistics Manager,92000,15/07/2016,Miami,Female,8.86,Still Employed,6
+EMP187,IT,Software Engineer,101000,20/03/2015,New York,Male,10.18,Still Employed,4
+EMP188,HR,HR Assistant,57000,20/05/2021,Chicago,Female,4.01,Still Employed,5
+EMP189,Finance,Senior Accountant,90000,20/10/2012,San Francisco,Male,12.59,Still Employed,3
+EMP190,Marketing,Content Creator,61000,15/06/2020,Austin,Female,4.94,Still Employed,2
+EMP191,Sales,Sales Manager,96000,15/12/2014,Seattle,Male,10.44,Still Employed,7
+EMP192,Operations,Supply Chain Analyst,70000,20/11/2016,Miami,Female,8.51,Still Employed,4
+EMP193,IT,Network Administrator,91000,10/07/2015,New York,Male,9.87,Still Employed,3
+EMP194,HR,Recruiter,65000,20/03/2020,Chicago,Female,5.18,Still Employed,6
+EMP195,Finance,Accountant,73000,15/02/2016,San Francisco,Male,9.27,Still Employed,5
+EMP196,Marketing,Marketing Coordinator,64000,15/09/2021,Austin,Female,3.69,Still Employed,2
+EMP197,Sales,Sales Representative,61000,10/07/2018,Seattle,Male,6.87,Still Employed,4
+EMP198,Operations,Operations Manager,97000,15/08/2013,Miami,Female,11.77,Still Employed,3
+EMP199,IT,Data Scientist,115000,15/04/2015,New York,Male,10.11,Still Employed,7
+EMP200,HR,HR Specialist,63000,15/11/2020,Chicago,Female,4.52,Still Employed,5
+EMP201,Finance,Financial Planner,82000,20/11/2013,San Francisco,Male,11.51,Still Employed,4
+EMP202,Marketing,Social Media Manager,69000,15/12/2019,Austin,Female,5.44,Still Employed,2
+EMP203,Sales,Sales Associate,59000,20/03/2018,Seattle,Male,7.18,Still Employed,3
+EMP204,Operations,Logistics Analyst,67000,10/12/2016,Miami,Female,8.46,Still Employed,6
+EMP205,IT,DevOps Engineer,111000,20/08/2015,New York,Male,9.76,Still Employed,4
+EMP206,HR,Training Specialist,64000,15/02/2021,Chicago,Female,4.27,Still Employed,5
+EMP207,Finance,Accountant,72000,20/05/2016,San Francisco,Male,8.93,Still Employed,3
+EMP208,Marketing,Graphic Designer,68000,15/07/2020,Austin,Female,4.86,Still Employed,2
+EMP209,Sales,Sales Manager,95000,20/06/2014,Seattle,Male,10.93,Still Employed,7
+EMP210,Operations,Supply Chain Manager,94000,15/01/2016,Miami,Female,9.36,Still Employed,4
+EMP211,IT,Software Developer,102000,10/09/2015,New York,Male,9.7,Still Employed,3
+EMP212,HR,HR Coordinator,62000,15/04/2020,Chicago,Female,5.11,Still Employed,6
+EMP213,Finance,Senior Accountant,91000,20/12/2012,San Francisco,Male,12.43,Still Employed,5
+EMP214,Marketing,Marketing Analyst,67000,15/06/2019,Austin,Female,5.94,Still Employed,2
+EMP215,Sales,Sales Representative,61000,20/08/2018,Seattle,Male,6.76,Still Employed,4
+EMP216,Operations,Operations Analyst,71000,15/10/2016,Miami,Female,8.61,Still Employed,3
+EMP217,IT,Network Engineer,92000,20/05/2015,New York,Male,10.01,Still Employed,7
+EMP218,HR,HR Assistant,57000,15/06/2021,Chicago,Female,3.94,Still Employed,5
+EMP219,Finance,Financial Analyst,81000,15/07/2013,San Francisco,Male,11.86,Still Employed,4
+EMP220,Marketing,Content Creator,61000,20/08/2020,Austin,Female,4.76,Still Employed,2
+EMP221,Sales,Sales Associate,59000,15/09/2018,Seattle,Male,6.69,Still Employed,3
+EMP222,Operations,Logistics Manager,93000,20/02/2016,Miami,Female,9.26,Still Employed,6
+EMP223,IT,Data Analyst,89000,15/10/2015,New York,Male,9.61,Still Employed,4
+EMP224,HR,Recruiter,65000,10/12/2020,Chicago,Female,4.45,Still Employed,5
+EMP225,Finance,Accountant,73000,15/03/2016,San Francisco,Male,9.19,Still Employed,3
+EMP226,Marketing,Marketing Coordinator,64000,15/10/2021,Austin,Female,3.6,Still Employed,2
+EMP227,Sales,Sales Manager,96000,20/11/2014,Seattle,Male,10.51,Still Employed,7
+EMP228,Operations,Supply Chain Analyst,70000,15/11/2016,Miami,Female,8.52,Still Employed,4
+EMP229,IT,Software Engineer,103000,15/06/2015,New York,Male,9.94,Still Employed,3
+EMP230,HR,HR Specialist,63000,20/05/2020,Chicago,Female,5.01,Still Employed,6
+EMP231,Finance,Senior Accountant,92000,15/10/2012,San Francisco,Male,12.61,Still Employed,5
+EMP232,Marketing,Social Media Manager,69000,20/11/2019,Austin,Female,5.51,Still Employed,2
+EMP233,Sales,Sales Representative,61000,15/04/2018,Seattle,Male,7.11,Still Employed,4
+EMP234,Operations,Operations Manager,97000,10/12/2013,Miami,Female,11.46,Still Employed,3
+EMP235,IT,DevOps Engineer,112000,20/07/2015,New York,Male,9.84,Still Employed,7
+EMP236,HR,Training Specialist,64000,15/03/2021,Chicago,Female,4.19,Still Employed,5
+EMP237,Finance,Financial Planner,82000,20/08/2013,San Francisco,Male,11.76,Still Employed,4
+EMP238,Marketing,Graphic Designer,68000,20/06/2020,Austin,Female,4.93,Still Employed,2
+EMP239,Sales,Sales Associate,59000,10/10/2018,Seattle,Male,6.62,Still Employed,3
+EMP240,Operations,Logistics Analyst,67000,20/12/2016,Miami,Female,8.43,Still Employed,6
+EMP241,IT,Network Administrator,93000,20/04/2015,New York,Male,10.09,Still Employed,4
+EMP242,HR,HR Coordinator,62000,20/07/2020,Chicago,Female,4.84,Still Employed,5
+EMP243,Finance,Accountant,73000,15/01/2016,San Francisco,Male,9.36,Still Employed,3
+EMP244,Marketing,Marketing Analyst,67000,15/11/2021,Austin,Female,3.52,Still Employed,2
+EMP245,Sales,Sales Manager,97000,20/12/2014,Seattle,Male,10.43,Still Employed,7
+EMP246,Operations,Supply Chain Manager,94000,15/02/2016,Miami,Female,9.27,Still Employed,4
+EMP247,IT,Data Scientist,116000,15/08/2015,New York,Male,9.77,Still Employed,3
+EMP248,HR,HR Assistant,57000,15/03/2020,Chicago,Female,5.19,Still Employed,6
+EMP249,Finance,Senior Accountant,93000,15/11/2012,San Francisco,Male,12.52,Still Employed,5
+EMP250,Marketing,Content Creator,61000,20/12/2019,Austin,Female,5.43,Still Employed,2
+EMP251,Sales,Sales Representative,61000,15/05/2018,Seattle,Male,7.03,Still Employed,4
+EMP252,Operations,Operations Analyst,71000,20/10/2016,Miami,Female,8.59,Still Employed,3
+EMP253,IT,Software Developer,104000,20/09/2015,New York,Male,9.67,Still Employed,7
+EMP254,HR,Recruiter,65000,20/11/2020,Chicago,Female,4.51,Still Employed,5
+EMP255,Finance,Financial Analyst,81000,20/06/2013,San Francisco,Male,11.93,Still Employed,4
+EMP256,Marketing,Marketing Coordinator,64000,15/06/2021,Austin,Female,3.94,Still Employed,2
+EMP257,Sales,Sales Associate,59000,20/07/2018,Seattle,Male,6.84,Still Employed,3
+EMP258,Operations,Logistics Manager,95000,15/07/2013,Miami,Female,11.86,Still Employed,6
+EMP259,IT,Network Engineer,94000,15/05/2015,New York,Male,10.03,Still Employed,4
+EMP260,HR,HR Specialist,63000,15/08/2020,Chicago,Female,4.77,Still Employed,5
+EMP261,Finance,Accountant,72000,20/04/2016,San Francisco,Male,9.09,Still Employed,3
+EMP262,Marketing,Social Media Manager,69000,15/10/2019,Austin,Female,5.61,Still Employed,2
+EMP263,Sales,Sales Manager,98000,15/10/2014,Seattle,Male,10.61,Still Employed,7
+EMP264,Operations,Supply Chain Analyst,70000,20/11/2016,Miami,Female,8.51,Still Employed,4
+EMP265,IT,DevOps Engineer,113000,20/06/2015,New York,Male,9.93,Still Employed,3
+EMP266,HR,Training Specialist,64000,20/02/2021,Chicago,Female,4.26,Still Employed,6
+EMP267,Finance,Senior Accountant,94000,15/12/2012,San Francisco,Male,12.44,Still Employed,5
+EMP268,Marketing,Graphic Designer,68000,20/07/2020,Austin,Female,4.84,Still Employed,2
+EMP269,Sales,Sales Representative,61000,15/08/2018,Seattle,Male,6.77,Still Employed,4
+EMP270,Operations,Operations Analyst,71000,15/12/2016,Miami,Female,8.44,Still Employed,3
+EMP271,IT,Data Analyst,90000,15/04/2015,New York,Male,10.11,Still Employed,7
+EMP272,HR,HR Coordinator,62000,15/05/2020,Chicago,Female,5.03,Still Employed,5
+EMP273,Finance,Financial Planner,82000,15/08/2013,San Francisco,Male,11.77,Still Employed,4
+EMP274,Marketing,Marketing Analyst,67000,20/09/2021,Austin,Female,3.67,Still Employed,2
+EMP275,Sales,Sales Associate,59000,20/09/2018,Seattle,Male,6.67,Still Employed,3
+EMP276,Operations,Logistics Manager,96000,15/11/2013,Miami,Female,11.52,Still Employed,6
+EMP277,IT,Software Engineer,105000,20/07/2015,New York,Male,9.84,Still Employed,4
+EMP278,HR,HR Assistant,57000,15/12/2020,Chicago,Female,4.44,Still Employed,5
+EMP279,Finance,Accountant,73000,20/02/2016,San Francisco,Male,9.26,Still Employed,3
+EMP280,Marketing,Content Creator,61000,15/11/2019,Austin,Female,5.52,Still Employed,2
+EMP281,Sales,Sales Manager,99000,15/12/2014,Seattle,Male,10.44,Still Employed,7
+EMP282,Operations,Supply Chain Manager,95000,20/01/2016,Miami,Female,9.34,Still Employed,4
+EMP283,IT,Network Administrator,95000,15/08/2015,New York,Male,9.77,Still Employed,3
+EMP284,HR,Recruiter,65000,20/06/2020,Chicago,Female,4.93,Still Employed,6
+EMP285,Finance,Senior Accountant,95000,20/10/2012,San Francisco,Male,12.59,Still Employed,5
+EMP286,Marketing,Marketing Coordinator,64000,20/07/2021,Austin,Female,3.84,Still Employed,2
+EMP287,Sales,Sales Representative,61000,20/10/2018,Seattle,Male,6.59,Still Employed,4
+EMP288,Operations,Operations Analyst,71000,15/11/2016,Miami,Female,8.52,Still Employed,3
+EMP289,IT,DevOps Engineer,114000,15/09/2015,New York,Male,9.69,Still Employed,7
+EMP290,HR,HR Specialist,63000,20/03/2020,Chicago,Female,5.18,Still Employed,5
+EMP291,Finance,Financial Analyst,81000,20/12/2013,San Francisco,Male,11.43,Still Employed,4
+EMP292,Marketing,Social Media Manager,69000,20/12/2019,Austin,Female,5.43,Still Employed,2
+EMP293,Sales,Sales Associate,59000,20/05/2018,Seattle,Male,7.01,Still Employed,3
+EMP294,Operations,Logistics Analyst,67000,20/12/2016,Miami,Female,8.43,Still Employed,6
+EMP295,IT,Data Scientist,117000,20/05/2015,New York,Male,10.01,Still Employed,4
+EMP296,HR,HR Coordinator,62000,20/06/2021,Chicago,Female,3.93,Still Employed,5
+EMP297,Finance,Accountant,73000,15/01/2016,San Francisco,Male,9.36,Still Employed,3
+EMP298,Marketing,Graphic Designer,68000,15/08/2020,Austin,Female,4.77,Still Employed,2
+EMP299,Sales,Sales Manager,100000,20/10/2014,Seattle,Male,10.59,Still Employed,7
+EMP300,Operations,Supply Chain Manager,96000,15/02/2016,Miami,Female,9.27,Still Employed,4
+EMP301,IT,Software Developer,106000,15/06/2015,New York,Male,9.94,Still Employed,3
+EMP302,HR,Training Specialist,64000,15/11/2020,Chicago,Female,4.52,Still Employed,6
+EMP303,Finance,Senior Accountant,96000,15/11/2012,San Francisco,Male,12.52,Still Employed,5
+EMP304,Marketing,Marketing Analyst,67000,15/04/2021,Austin,Female,4.11,Still Employed,2
+EMP305,Sales,Sales Representative,61000,15/06/2018,Seattle,Male,6.94,Still Employed,4
+EMP306,Operations,Operations Manager,98000,15/12/2013,Miami,Female,11.44,Still Employed,3
+EMP307,IT,Network Engineer,96000,15/07/2015,New York,Male,9.86,Still Employed,7
+EMP308,HR,HR Assistant,57000,20/12/2020,Chicago,Female,4.43,Still Employed,5
+EMP309,Finance,Financial Planner,82000,15/09/2013,San Francisco,Male,11.69,Still Employed,4
+EMP310,Marketing,Content Creator,61000,20/10/2019,Austin,Female,5.59,Still Employed,2
+EMP311,Sales,Sales Associate,59000,15/07/2018,Seattle,Male,6.86,Still Employed,3
+EMP312,Operations,Logistics Manager,97000,15/01/2016,Miami,Female,9.36,Still Employed,6
+EMP313,IT,Data Analyst,91000,20/08/2015,New York,Male,9.76,Still Employed,4
+EMP314,HR,Recruiter,65000,20/05/2020,Chicago,Female,5.01,Still Employed,5
+EMP315,Finance,Accountant,73000,20/02/2016,San Francisco,Male,9.26,Still Employed,3
+EMP316,Marketing,Marketing Coordinator,64000,20/08/2021,Austin,Female,3.76,Still Employed,2
+EMP317,Sales,Sales Manager,101000,15/11/2014,Seattle,Male,10.52,Still Employed,7
+EMP318,Operations,Supply Chain Analyst,70000,15/10/2016,Miami,Female,8.61,Still Employed,4
+EMP319,IT,DevOps Engineer,115000,20/09/2015,New York,Male,9.67,Still Employed,3
+EMP320,HR,HR Specialist,63000,15/06/2020,Chicago,Female,4.94,Still Employed,6
+EMP321,Finance,Senior Accountant,97000,20/12/2012,San Francisco,Male,12.43,Still Employed,5
+EMP322,Marketing,Social Media Manager,69000,15/11/2019,Austin,Female,5.52,Still Employed,2
+EMP323,Sales,Sales Representative,61000,20/08/2018,Seattle,Male,6.76,Still Employed,4
+EMP324,Operations,Operations Analyst,71000,15/12/2016,Miami,Female,8.44,Still Employed,3
+EMP325,IT,Software Engineer,107000,15/05/2015,New York,Male,10.03,Still Employed,7
+EMP326,HR,HR Coordinator,62000,15/07/2021,Chicago,Female,3.86,Still Employed,5
+EMP327,Finance,Financial Analyst,81000,15/10/2013,San Francisco,Male,11.61,Still Employed,4
+EMP328,Marketing,Graphic Designer,68000,15/09/2020,Austin,Female,4.69,Still Employed,2
+EMP329,Sales,Sales Associate,59000,15/09/2018,Seattle,Male,6.69,Still Employed,3
+EMP330,Operations,Logistics Manager,98000,20/11/2013,Miami,Female,11.51,Still Employed,6
+EMP331,IT,Network Administrator,97000,20/06/2015,New York,Male,9.93,Still Employed,4
+EMP332,HR,Training Specialist,64000,15/03/2020,Chicago,Female,5.19,Still Employed,5
+EMP333,Finance,Accountant,73000,20/01/2016,San Francisco,Male,9.34,Still Employed,3
+EMP334,Marketing,Marketing Analyst,67000,20/10/2021,Austin,Female,3.59,Still Employed,2
+EMP335,Sales,Sales Manager,102000,15/12/2014,Seattle,Male,10.44,Still Employed,7
+EMP336,Operations,Supply Chain Manager,96000,20/02/2016,Miami,Female,9.26,Still Employed,4
+EMP337,IT,Data Scientist,118000,15/07/2015,New York,Male,9.86,Still Employed,3
+EMP338,HR,HR Assistant,57000,20/11/2020,Chicago,Female,4.51,Still Employed,6
+EMP339,Finance,Senior Accountant,98000,20/11/2012,San Francisco,Male,12.51,Still Employed,5
+EMP340,Marketing,Content Creator,61000,15/12/2019,Austin,Female,5.44,Still Employed,2
+EMP341,Sales,Sales Representative,61000,15/10/2018,Seattle,Male,6.61,Still Employed,4
+EMP342,Operations,Operations Analyst,71000,20/12/2016,Miami,Female,8.43,Still Employed,3
+EMP343,IT,Software Developer,108000,15/08/2015,New York,Male,9.77,Still Employed,7
+EMP344,HR,Recruiter,65000,20/05/2020,Chicago,Female,5.01,Still Employed,5
+EMP345,Finance,Financial Planner,82000,20/09/2013,San Francisco,Male,11.68,Still Employed,4
+EMP346,Marketing,Marketing Coordinator,64000,20/06/2021,Austin,Female,3.93,Still Employed,2
+EMP347,Sales,Sales Associate,59000,15/11/2018,Seattle,Male,6.52,Still Employed,3
+EMP348,Operations,Logistics Analyst,67000,20/10/2016,Miami,Female,8.59,Still Employed,6
+EMP349,IT,Network Engineer,98000,20/09/2015,New York,Male,9.67,Still Employed,4
+EMP350,HR,HR Specialist,63000,15/07/2020,Chicago,Female,4.86,Still Employed,5
+EMP351,Finance,Accountant,73000,15/02/2016,San Francisco,Male,9.27,Still Employed,3
+EMP352,Marketing,Social Media Manager,69000,20/11/2019,Austin,Female,5.51,Still Employed,2
+EMP353,Sales,Sales Manager,103000,20/10/2014,Seattle,Male,10.59,Still Employed,7
+EMP354,Operations,Supply Chain Manager,97000,15/01/2016,Miami,Female,9.36,Still Employed,4
+EMP355,IT,DevOps Engineer,116000,15/06/2015,New York,Male,9.94,Still Employed,3
+EMP356,HR,Training Specialist,64000,15/12/2020,Chicago,Female,4.44,Still Employed,6
+EMP357,Finance,Senior Accountant,99000,15/12/2012,San Francisco,Male,12.44,Still Employed,5
+EMP358,Marketing,Graphic Designer,68000,15/07/2021,Austin,Female,3.86,Still Employed,2
